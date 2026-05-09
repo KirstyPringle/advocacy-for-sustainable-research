@@ -1,4 +1,4 @@
-site_name: "Greening Institutional Change"
+site_name: "TEST TEST TEST"
 site_url: https://kirstypringle.github.io/teaching-for-impact/
 
 use_directory_urls: true
@@ -108,7 +108,7 @@ nav:
   - Introduction: introduction.md
   - Green Change:
       - Overview: part-1/index.md
-      - 1. Introduction: green-change/green-introduction.md
+      - 1. Introduction: green-change/01-green-introduction.md
       - 2. Goals, Strategies and Tactics: green-change/02-green-goals-strategies-tactics.md
       - 3. Power: green-change/03-green-power.md
       - 4. Starting: green-change/04-green-starting.md

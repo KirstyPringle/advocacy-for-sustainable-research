@@ -1,5 +1,12 @@
 # Goals, Strategies, and Tactics
 
+---
+learning_outcomes:
+  -test
+guiding_questions:
+  -test
+---
+
 Deciding what to do and how to do it
 
 ## Terminology

@@ -1,5 +1,12 @@
 # Power
 
+---
+learning_outcomes:
+  -test
+guiding_questions:
+  -test
+---
+
 Figuring out who has it and how to influence them
 
 ## Selectorate Theory

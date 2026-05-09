@@ -1,5 +1,12 @@
 # Finishing
 
+---
+learning_outcomes:
+  -test
+guiding_questions:
+  -test
+---
+
 Closing the deal and what happens afterward
 
 ## The 'P' Word

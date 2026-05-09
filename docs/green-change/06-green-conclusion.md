@@ -1,5 +1,12 @@
 # Conclusion
 
+---
+learning_outcomes:
+  -test
+guiding_questions:
+  -test
+---
+
 A few more tips and a modest proposal
 
 ## Things We Didn't Cover

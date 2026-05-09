@@ -1,4 +1,4 @@
-# Teaching for Impact: Designing Effective & Open Training
+# Greening Organisational Change
 
 ## Project team
 

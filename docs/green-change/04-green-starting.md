@@ -1,5 +1,12 @@
 # Starting
 
+---
+learning_outcomes:
+  -test
+guiding_questions:
+  -test
+---
+
 Where and how to begin
 
 ## A Framework: Diffusion of Innovations
