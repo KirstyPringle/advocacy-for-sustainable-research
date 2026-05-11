@@ -5,7 +5,7 @@ on:
     branches:
       - master
       - main
-      - green-change-slides
+      - add-green-change-slides
 
 permissions:
   contents: write
