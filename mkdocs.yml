@@ -1,5 +1,5 @@
-site_name: "Teaching for Impact: Designing Effective & Open Training"
-site_url: https://talarifyza.github.io/teaching-for-impact/
+site_name: "Greening Organisational Change"
+site_url: https://kirstypringle.github.io/teaching-for-impact/
 
 use_directory_urls: true
 
@@ -104,30 +104,25 @@ copyright: >
   Copyright &copy; 2026 Failure Modes of Engineering- CC BY 4.0 · https://creativecommons.org/licenses/by/4.0/-  - <a href="#__consent">Change cookie settings</a>
 nav:
   - Home: index.md
-  - Pre-work: pre-work/index.md
+##  - Pre-work: pre-work/index.md
   - Introduction: introduction.md
-  - Part 1 - Designing Training:
-      - Overview: part-1/index.md
-      - 1. Training as a System Intervention: part-1/lesson-1.md
-      - 2. Theory of Change, Positionality, and Your Role: part-1/lesson-2.md
-      - 3. Understanding Your Learners: part-1/lesson-3.md
-      - 4. How People Learn: part-1/lesson-4.md
-      - 5. Learning Outcomes and Alignment: part-1/lesson-5.md
-      - 6. Co-Design and Constraints: part-1/lesson-6.md
-      - 7. Designing Learning Activities: part-1/lesson-7.md
-      - 8. Practice, Feedback, and Iteration: part-1/lesson-8.md
-      - 9. Assessment for Learning: part-1/lesson-9.md
-      - Closing: part-1/closing.md
-  - Part 2 - From Training Design to OER:
-      - Overview: part-2/index.md
-      - 1. Designing for Openness: part-2/lesson-1.md
-      - 2. Finding and Evaluating OER: part-2/lesson-2.md
-      - 3. Understanding Open Licenses: part-2/lesson-3.md
-      - 4. Adapting, Remixing, and Localising OER: part-2/lesson-4.md
-      - 5. Creating OER from Scratch: part-2/lesson-5.md
-      - 6. Sharing and Publishing OER: part-2/lesson-6.md
-      - 7. Sustaining and Improving OER: part-2/lesson-7.md
-      - Closing: part-2/closing.md
+  - Green Change:
+      - Overview: green-change/green-index.md
+      - 1. Introduction: green-change/01-green-introduction.md
+      - 2. Goals, Strategies and Tactics: green-change/02-green-goals-strategies-tactics.md
+      - 3. Power: green-change/03-green-power.md
+      - 4. Starting: green-change/04-green-starting.md
+      - 5. Finishing: green-change/05-green-finishing.md
+#  - Part 2 - From Training Design to OER:
+#      - Overview: part-2/index.md
+#      - 1. Designing for Openness: part-2/lesson-1.md
+#      - 2. Finding and Evaluating OER: part-2/lesson-2.md
+#      - 3. Understanding Open Licenses: part-2/lesson-3.md
+#      - 4. Adapting, Remixing, and Localising OER: part-2/lesson-4.md
+#      - 5. Creating OER from Scratch: part-2/lesson-5.md
+#      - 6. Sharing and Publishing OER: part-2/lesson-6.md
+#      - 7. Sustaining and Improving OER: part-2/lesson-7.md
+#      - Closing: part-2/closing.md
   - Conclusion: conclusion.md
   - Activities:
       - Overview: activities/index.md
