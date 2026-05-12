@@ -1,0 +1,5 @@
+docs/green-change/02-green-goals-strategies-tactics.md
+docs/green-change/03-green-power.md
+docs/green-change/04-green-starting.md
+docs/green-change/05-green-finishing.md
+docs/green-change/06-green-conclusion.md

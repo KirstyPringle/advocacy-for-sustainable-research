@@ -21,6 +21,18 @@ What this training does and doesn't cover
 -   Also work better if done synchronously
     -   But may be done asynchronously if a workshop runs out of time
 
+!!! tip
+    ADD TIP HERE
+
+!!! note
+    ADD NOTE HERE
+
+!!! discussion
+    ADD DISCUSSION HERE
+
+!!! challenge
+    ADD CHALLENGE
+
 
 ## Prerequisites
 
