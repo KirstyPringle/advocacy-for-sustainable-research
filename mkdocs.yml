@@ -101,15 +101,15 @@ extra:
       - reject
 
 copyright: >
-  Copyright &copy; 2026 Failure Modes of Engineering- CC BY 4.0 · https://creativecommons.org/licenses/by/4.0/-  - <a href="#__consent">Change cookie settings</a>
+  Copyright &copy; 2026 NetDRIVE - CC BY 4.0 · https://creativecommons.org/licenses/by/4.0/-  - <a href="#__consent">Change cookie settings</a>
 nav:
   - Home: index.md
 ##  - Pre-work: pre-work/index.md
   - Introduction: introduction.md
   - Background: background.md
   - Green Change:
-      - Overview: green-change/green-index.md
-      - 1. Introduction: green-change/01-green-introduction.md
+##      - Overview: green-change/green-index.md
+      - Taught Course: green-change/01-green-introduction.md
 #      - 2. Goals, Strategies and Tactics: green-change/02-green-goals-strategies-tactics.md
 #      - 3. Power: green-change/03-green-power.md
 #      - 4. Starting: green-change/04-green-starting.md
@@ -126,21 +126,22 @@ nav:
 #      - Closing: part-2/closing.md
   - Conclusion: conclusion.md
   - Activities:
-      - Overview: activities/index.md
-      - 1. System Map: activities/activity_1_system_map.md
-      - 2. Theory of Change: activities/activity_2_theory_of_change.md
-      - 3. Learner Reality Mapping: activities/activity_3_learner_reality.md
-      - 4. Learning Experience Audit: activities/activity_4_learner_exp_audit.md
-      - 5. Learning Outcomes: activities/activity_5_learning_outcomes.md
-      - 6. Alignment Table: activities/activity_6_alignment.md
-      - 7. Co-Design Plan: activities/activity_7_co_design.md
-      - 8. Learning Activity Design: activities/activity_8_activity_design.md
-      - 9. Practice & Feedback Plan: activities/activity_9_practice_feedback.md
-      - 10. Assessment Plan: activities/activity_10_assessment.md
-      - 11. Facilitation and Session Plan: activities/activity_11_facilitation_session_plan.md
-      - 12. Evaluation Plan: activities/activity_12_evaluation_plan.md
-      - 13. Training Design Snapshot: activities/activity_13_snapshot.md
-      - 14. OER Workflow: activities/activity_14_oer.md
+      - Summary: activities/activities-all.md 
+#      - Overview: activities/index.md
+#      - 1. System Map: activities/activity_1_system_map.md
+#      - 2. Theory of Change: activities/activity_2_theory_of_change.md
+#      - 3. Learner Reality Mapping: activities/activity_3_learner_reality.md
+#      - 4. Learning Experience Audit: activities/activity_4_learner_exp_audit.md
+#      - 5. Learning Outcomes: activities/activity_5_learning_outcomes.md
+#      - 6. Alignment Table: activities/activity_6_alignment.md
+#      - 7. Co-Design Plan: activities/activity_7_co_design.md
+#      - 8. Learning Activity Design: activities/activity_8_activity_design.md
+#      - 9. Practice & Feedback Plan: activities/activity_9_practice_feedback.md
+#      - 10. Assessment Plan: activities/activity_10_assessment.md
+#      - 11. Facilitation and Session Plan: activities/activity_11_facilitation_session_plan.md
+#      - 12. Evaluation Plan: activities/activity_12_evaluation_plan.md
+##      - 13. Training Design Snapshot: activities/activity_13_snapshot.md
+ #     - 14. OER Workflow: activities/activity_14_oer.md
   - Download: resources/offline-access.md
   - Resources:
       - Glossary: resources/glossary.md
