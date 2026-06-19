@@ -241,7 +241,7 @@ The [Concordat for the Environmental Sustainability of Research and Innovation P
 
 !!! question "Reflection"
 
-	Have you heard of the concordat? Is your institution a signatory?
+Have you heard of the concordat? Is your institution a signatory?
 
 <!-- end: type -->
 
@@ -522,7 +522,7 @@ A group of researchers and RSEs want to advocate for a policy requiring all rese
 
 <!-- type: reflection -->
 
-The goal of power mapping isn't to find the one person you need to convince. It's to understand the ecosystem well enough that you can move through it strategically — building support, removing blockers, and arriving at decision-makers with momentum rather than a cold ask.
+The goal of power mapping isn't to find the one person you need to convince. It's to understand the ecosystem well enough that you can move through it strategically to build support and remove blockers so you can arrive at decision-makers with momentum rather than a cold ask.
 
 <!-- end: type -->
 
@@ -566,35 +566,6 @@ A useful persona includes:
 	Choose one person from the Greendale power map and write a short persona using the structure above.
 
 	Consider: What would make them say yes? What would make them say no?
-
-
-# Example Personas: Greendale University
-
-These are worked examples for Activity 2.2, based on the Greendale University power map.
-
-<div class="grid cards" markdown>
-
-- **Dr. Priya Nair — Sustainability Manager**
-
-    **Role and context:** Leads sustainability for Estates and Facilities. No formal authority over research practice or computing teams. Currently under pressure to deliver Greendale's first Concordat progress report.
-
-    **What she cares about:** Genuine progress on sustainability, not just optics. Frustrated by the gap between institutional commitments and actual change. A credible research computing policy would be a significant win for her.
-
-    **Likely position:** Strong ally — but her enthusiasm can run ahead of what the coalition is ready for. Her support is most valuable when it is strategic rather than front-facing; if she visibly leads the campaign, others may dismiss it as "the sustainability team's agenda."
-
-    **How to reach her:** Easy to approach. Ask for her advice on the institutional landscape — what has been tried, who the blockers are, what language resonates with senior leaders. She will know.
-
-- **Dr. James Whitfield — Head of Research Computing**
-
-    **Role and context:** Manages Greendale's HPC infrastructure and a team of twelve. Currently mid-way through a major procurement process. His team is stretched.
-
-    **What he cares about:** Service quality and his team's capacity. Not unsympathetic to sustainability — he has followed the Green Algorithms work quietly — but his performance is measured on uptime and user satisfaction, not emissions.
-
-    **Likely position:** Neutral, leaning cautious. Not an opponent, but any proposal that creates workload without resource will meet practical resistance. His support is gettable if his concerns are addressed directly.
-
-    **How to reach him:** Don't approach him first. Wait until the proposal has momentum and senior backing. Then seek a one-to-one framed around his technical expertise — what would reporting actually require? People asked for their advice become invested in the outcome.
-
-</div>
 
 
 
@@ -736,11 +707,55 @@ The three approaches work best in combination, and the right balance depends on 
 
 **Policy engagement** is often the most powerful lever inside institutions, and the most underused. It means taking the commitments your institution has already made publicly — through its own sustainability strategy, through the Concordat, through funder requirements — and using them to frame your ask. This reframes the conversation entirely. You are no longer asking decision-makers to do something new. You are asking them to follow through on something they already signed up to. That is a much easier conversation.
 
+<!-- type: framework -->
+
+## Framing Your Message
+
+The same proposal lands differently depending on who you are talking to.
+
+Lead with what that person cares about:
+
+- **Research leadership** — reputation, funder requirements, competitive positioning
+- **Finance** — cost reduction, future regulatory risk, efficiency gains
+- **Facilities / IT** — operational improvement, procurement criteria, sector leadership
+- **Researchers** — time saved, reproducibility, grant eligibility
+- **Students** — values alignment, employability, institutional integrity
+
+<!-- end: type -->
+
+Framing is all about recognising that people have different priorities and responsibilities, and that the same change means different things to different people. 
+
+A common mistake advocates make is leading with the argument that convinced them. If you care deeply about climate change, that is what you will want to talk about. 
+
+A useful test: before any significant conversation, ask yourself — *what problem does this solve for them?* Considering their role, with the pressures that they face. If you cannot answer that question, you are not ready for the conversation yet.
+
+!!! tip
+
+    People rarely oppose sustainability because they dislike sustainability. They resist because they fear workload, cost, risk, or compliance burden. 
+    
+    Where possible, consider how to address that fear.
+
+<!-- type: exercise -->
+
+!!! question "Activity – Frame your proposal"
+
+    Take the advocacy goal you have been working with — from Greendale or your own institution.
+
+    Write a two-sentence pitch for each of the following audiences:
+
+    1. A senior research leader (Dean or VP Research)
+    2. A head of IT or research computing
+    3. A finance director
+
+    Same proposal. Different frame. What changes — and what stays the same?
+
+<!-- end: type -->
+
 <!-- type: concept -->
 
 ## Putting Together Your Plan
 
-A good advocacy plan doesn't need to be long — it needs to be honest.
+A good advocacy plan doesn't need to be long, but it should be honest and down to earth.
 
 - **The problem** — what specifically are you trying to change, and why now?
 - **The goal** — what does success look like in concrete terms?
