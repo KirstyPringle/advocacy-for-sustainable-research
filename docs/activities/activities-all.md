@@ -154,7 +154,37 @@ A completed chain (cause → goal → strategy → tactic) for the scenario, plu
 
 ---
 
-## 3.2 – Draft Your Advocacy Plan
+## 3.2 – Reframe Your Proposal
+
+**Section:** Section 3 – Develop a Plan
+**Time:** 10 minutes
+**Format:** Individual, then group discussion
+
+### Background
+
+The same proposal lands differently depending on who you are talking to. People have different priorities and responsibilities, and a change that matters for one reason to you may matter for an entirely different reason to the person you are asking to support it. Framing is not spin — it is showing that you have thought about what the change means for the people you need to convince.
+
+The most common mistake advocates make is leading with the argument that convinced them. If you care about climate change, that is what you want to talk about. But a finance director is more likely to say yes because of cost reduction or regulatory risk than because of climate change. Find the frame that serves their priorities, and leads to the same place.
+
+### What to do
+
+Take the advocacy goal you have been working with — from Greendale or your own institution.
+
+Write a two-sentence pitch for each of the following audiences:
+
+1. A senior research leader (Dean or VP Research)
+2. A head of IT or research computing
+3. A finance director
+
+Same proposal. Different frame.
+
+### What you produce
+
+Three short pitches and a note on what changed between them — and what stayed the same.
+
+---
+
+## 3.3 – Draft Your Advocacy Plan
 
 **Section:** Section 3 – Develop a Plan
 **Time:** 15 minutes
