@@ -231,7 +231,28 @@ A shortlist of realistic starting points, with a note on which one you would pri
 
 ---
 
-## 4.3 – Who's Who in Your Institution?
+## 4.3 – Being New
+
+**Section:** Section 4 – Implement Your Plan
+**Time:** 10 minutes
+**Format:** Individual, then group discussion
+
+### Background
+
+Your relationship to an organisation shapes what you can realistically attempt. Someone who has just joined faces different constraints — and sometimes different opportunities — than someone who has been there for years. Both situations have advantages worth understanding before you plan your approach.
+
+### What to do
+
+1. Why can it be harder to change an organisation you have just joined than one you have belonged to for a long time?
+2. Why is it sometimes easier to change an organisation you are new to?
+
+### What you produce
+
+A short reflection on your own current position — insider or relative newcomer — and what that means for how you approach your advocacy.
+
+---
+
+## 4.4 – Who's Who in Your Institution?
 
 **Section:** Section 4 – Implement Your Plan
 **Time:** 10 minutes
@@ -257,7 +278,53 @@ A short list of key people by role, with a note on how you might approach each o
 
 ---
 
-## 4.4 – Retrospective on Change
+## 4.5 – Changing Your Mind
+
+**Section:** Section 4 – Implement Your Plan
+**Time:** 10 minutes
+**Format:** Individual, then group discussion
+
+### Background
+
+Debate rarely changes minds. People tend to choose beliefs based on their sense of identity and social belonging, not because they evaluated evidence and updated rationally. Understanding how minds actually shift — including your own — helps you think more clearly about how to approach the people you are trying to persuade.
+
+### What to do
+
+Describe something important that you have changed your mind about in the last ten years.
+
+- What shifted you? Was it evidence, a relationship, a shared experience, or something else?
+- What does this tell you about how to approach people you are trying to persuade?
+
+### What you produce
+
+A short personal reflection and one concrete implication for your advocacy approach.
+
+---
+
+## 4.6 – Inertia
+
+**Section:** Section 4 – Implement Your Plan
+**Time:** 10 minutes
+**Format:** Individual, then group discussion
+
+### Background
+
+Getting a change approved is not the same as getting it to stick. One of the most common patterns in organisational change is that people continue doing things the old way long after the organisation has nominally moved on — sometimes indefinitely. Understanding why this happens, and what can be done about it, is part of planning for sustained change rather than just initial approval.
+
+### What to do
+
+Describe a case where people continued doing things the old way after most of the organisation had moved to a new way of working.
+
+1. Why was this permitted?
+2. What were the benefits and drawbacks of allowing it?
+
+### What you produce
+
+A short analysis of the case, and a note on what it means for how you will plan the maintenance phase of your own advocacy.
+
+---
+
+## 4.7 – Retrospective on Change
 
 **Section:** Section 4 – Implement Your Plan
 **Time:** 10 minutes

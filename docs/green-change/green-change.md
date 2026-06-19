@@ -2,7 +2,7 @@
 
 !!! Learning Outcomes "Learning Outcomes from the Course"
 
-	- Improved awareness of the power of advocacy, including the notion that it can take many forms, and be effective on multiple scales (small to large).
+	- Improved awareness of the power of advocacy, including the notion that it can take many forms, and be effective on multiple scales (small pn large).
 	- Understanding of the main steps in the process of advocacy
 	- Awareness and confidence to use key tools to help design and create change (e.g. theory of change, identifying goals, strategies and actions).
 	- Concrete steps to implement a plan. 
@@ -10,8 +10,6 @@
 This course is designed to give people working in research institutions the knowledge and skills help them advocate for environmental sustainability within their organisations.
 
 The course focuses on addressing the contribution digital research makes to the dual challenges of the climate crisis and biodiversity loss.  It teaches you how to translate concern about the environmental impact of digital research into effective, purposeful action within your organisation
-
-<!-- end: type -->
 
 <!-- type: concept -->
 
@@ -27,12 +25,9 @@ The course focuses on addressing the contribution digital research makes to the 
 
 !!! Learning Outcomes
 
-	- What advocacy is (and isn't)
-	- Different types of advocacies
-	- Key components of advocacy
-
-
-<!-- end: type -->
+	- Understand what advocacy is and isn't
+	- Know the different types of advocacy and how they relate
+	- Understand how advocacy and organisational change connect
 
 <!-- type: concept -->
 
@@ -48,10 +43,12 @@ There is no single definition of advocacy
 
 <!-- end: type -->
 
-<!-- type: concept -->
+<!-- type: quote -->
 
-	"Advocacy is a process. It requires patience, strategy, and commitment" 
-	- [UNICEF](https://www.unicef.org/lesotho/media/1231/file/YPH-Module-4.pdf)
+!!! quote
+
+	"Advocacy is a process. It requires patience, strategy, and commitment."
+	— [UNICEF](https://www.unicef.org/lesotho/media/1231/file/YPH-Module-4.pdf)
 
 <!-- end: type -->
 
@@ -133,32 +130,21 @@ Organisational change is often driven by external pressures such as regulation, 
 
 ## How advocacy and organisational change link together
 
-Systems / institutional advocacy can play an important role in driving environmental improvements within organisations
+Advocacy and organisational change are closely connected. Advocacy is the process — the deliberate effort to influence decisions. Organisational change is the outcome — the shift in policy, practice, or culture that results. One without the other is incomplete: advocacy that never lands produces no change, and change without advocates to sustain it often fades.
 
-It involves individuals or groups influencing decisions to improve environmental 
+Environmental advocacy within research institutions works by creating the conditions for change: raising awareness, building coalitions, framing the issue in terms decision-makers care about, and keeping the pressure on until commitments are made and followed through.
 
-Environmental systems advocacy can highlight issues such as waste, emissions, or unsustainable practices
-
-It can encourage organisations to adopt more sustainable policies and procedures
-Staff, students, customers, or communities often act as advocates for greener practices
-
-Organisational change often happens when internal institutional advocacy creates pressure, awareness, and practical solutions
-
-
+One important thing to bear in mind: we usually see the result of change, not the process behind it. A new policy appears, a practice shifts — but the months of relationship-building, failed attempts, and strategic manoeuvring that made it happen are invisible. This means we often underestimate how much effort change actually requires, and we miss the chance to learn from the process. This course tries to make that process visible.
 
 <!-- type: concept -->
 
-- Scale (big and small are both ok)
+## Scale — Big and Small Are Both Valid
 
-- Advocacy can happen on a small scale or large scale, but both can lead to meaningful change
-
-- Small-scale advocacy often focuses on specific issues within a single organisation (institutional advocacy) e.g. changing one policy, practice, or routine, often quicker to implement and easier to measure impact
-
-<!-- slide break -->
-
-- Large-scale advocacy (systems advocacy) aims to influence multiple organisations, sectors, or government policy, e.g. national environmental laws or widespread industry change
-
-- Both scales are important and often connected small institutional changes can build momentum for wider systems change large-scale change often starts with small local advocacy actions
+- **Small-scale advocacy** focuses on a specific issue within a single organisation — one policy, one practice, one routine
+  - Faster to implement, easier to measure, less risky
+- **Large-scale advocacy** aims to influence multiple organisations, sectors, or government policy
+  - Deeper and more lasting, but slower and harder to initiate
+- Both matter — and they are connected: small institutional wins build momentum for wider systems change
 
 <!-- end: type -->
 
@@ -255,7 +241,7 @@ The [Concordat for the Environmental Sustainability of Research and Innovation P
 
 !!! question "Reflection"
 
-Have you heard of the concordat? Is your institution a signatory?
+	Have you heard of the concordat? Is your institution a signatory?
 
 <!-- end: type -->
 
@@ -297,7 +283,6 @@ Reporting should be proportionate to the size and maturity of the organisation, 
 
 	If your institution is a signatory, this annual report should exist and be publicly available on their website.
 
-<!-- end: type -->
 
 
 <!-- type: concept -->
@@ -345,7 +330,6 @@ Organisational leadership, sustainable infrastructure, Supply chain and resource
 - **Climate-conscious travel** – reducing emissions from business and academic travel, building on a 24% reduction already achieved against a 2017–18 baseline
 - **Environmental impact and reporting data** – transparent, consistent measurement and public reporting of progress
 
-<!-- end: type -->
 
 !!! tip
 
@@ -542,14 +526,17 @@ The goal of power mapping isn't to find the one person you need to convince. It'
 
 <!-- end: type -->
 
+<!-- type: reflection -->
+
 ## Important Note
 
 Many people find power mapping uncomfortable, particularly if their map includes people who are also in the room.
 
-This discomfort is one of the reasons things don’t get better: thinking consciously about how to change people’s minds makes compassionate people squeamish.
+This discomfort is one of the reasons things don't get better: thinking consciously about how to change people's minds makes compassionate people squeamish.
 
-But if we don’t do it, it will be done by people whom it *doesn’t* make uncomfortable.
+But if we don't do it, it will be done by people whom it *doesn't* make uncomfortable.
 
+<!-- end: type -->
 
 <!-- type: concept -->
 
@@ -580,13 +567,42 @@ A useful persona includes:
 
 	Consider: What would make them say yes? What would make them say no?
 
-<!-- end: type -->
+
+# Example Personas: Greendale University
+
+These are worked examples for Activity 2.2, based on the Greendale University power map.
+
+<div class="grid cards" markdown>
+
+- **Dr. Priya Nair — Sustainability Manager**
+
+    **Role and context:** Leads sustainability for Estates and Facilities. No formal authority over research practice or computing teams. Currently under pressure to deliver Greendale's first Concordat progress report.
+
+    **What she cares about:** Genuine progress on sustainability, not just optics. Frustrated by the gap between institutional commitments and actual change. A credible research computing policy would be a significant win for her.
+
+    **Likely position:** Strong ally — but her enthusiasm can run ahead of what the coalition is ready for. Her support is most valuable when it is strategic rather than front-facing; if she visibly leads the campaign, others may dismiss it as "the sustainability team's agenda."
+
+    **How to reach her:** Easy to approach. Ask for her advice on the institutional landscape — what has been tried, who the blockers are, what language resonates with senior leaders. She will know.
+
+- **Dr. James Whitfield — Head of Research Computing**
+
+    **Role and context:** Manages Greendale's HPC infrastructure and a team of twelve. Currently mid-way through a major procurement process. His team is stretched.
+
+    **What he cares about:** Service quality and his team's capacity. Not unsympathetic to sustainability — he has followed the Green Algorithms work quietly — but his performance is measured on uptime and user satisfaction, not emissions.
+
+    **Likely position:** Neutral, leaning cautious. Not an opponent, but any proposal that creates workload without resource will meet practical resistance. His support is gettable if his concerns are addressed directly.
+
+    **How to reach him:** Don't approach him first. Wait until the proposal has momentum and senior backing. Then seek a one-to-one framed around his technical expertise — what would reporting actually require? People asked for their advice become invested in the outcome.
+
+</div>
+
 
 
 ## Using Your Analysis to Decide Who to Target
 
 <!-- type: concept -->
-Who to Target
+
+## Who to Target
 
 - **Start with allies, not decision-makers** — arrive with support, not alone
 - **Don’t neglect neutrals** — they are often more valuable to win over than opponents
@@ -604,7 +620,6 @@ Who to Target
 	3. Who might resist, and how will you respond?
 	4. What does a realistic first step look like?
 
-<!-- end: type -->
 
 # Section 3 - Develop a Plan
 
@@ -613,6 +628,9 @@ Who to Target
 	- Understand the relationship between cause, goal, strategy, and tactic
 	- Be able to apply the framework to a real advocacy scenario
 	- Recognise common pitfalls such as goal confusion and goal drift
+	- Know how to choose between different approaches to advocacy
+	- Be able to draft a theory of change and a basic advocacy plan
+	- Understand why organisational change requires practical wisdom, not just rules
 
 !!! tip
 
@@ -754,6 +772,34 @@ Writing this out — even roughly — does several useful things. It forces you 
 
     You do not need a formal document. One sentence — *if X, then Y, because Z* — is more useful than no theory at all. If you cannot write the sentence, that is usually a sign the plan needs more thinking before it needs more doing.
 
+<!-- type: framework -->
+
+## Top-Down or Bottom-Up?
+
+There is no single right approach to institutional change. Research by Borrego & Henderson suggests two useful dimensions to consider:
+
+- **Prescribed vs emergent** — are you pushing a specific solution from above, or nurturing change that grows from within?
+- **Individuals vs systems** — are you trying to change how people think and act, or trying to change the structures and incentives around them?
+
+Most successful campaigns combine elements of both. The question is where to start given your context, your relationships, and your resources.
+
+<!-- end: type -->
+
+<!-- type: concept -->
+
+## The Right Kind of Knowledge
+
+Organisational change requires a particular kind of knowledge that is hard to teach from a textbook.
+
+- **Techne** — rule-based knowledge derived from principles: *"if X, then Y"*. Useful, but limited in complex human situations.
+- **Metis** — practical wisdom built through experience: knowing how to read a room, adapt to what is actually happening, and navigate situations that are never quite the same twice.
+
+Researchers and technical professionals are trained to value techne. Advocacy requires metis. The frameworks in this course are useful starting points — but they will not tell you exactly what to do in your specific institution, with your specific people, at this specific moment. That part you have to develop through doing.
+
+<!-- end: type -->
+
+
+
 <!-- type: exercise -->
 
 !!! question "Activity – Draft your advocacy plan"
@@ -873,6 +919,15 @@ The best starting point is rarely the most ambitious one — and that is not a c
 
 <!-- end: type -->
 
+<!-- type: exercise -->
+
+!!! question "Activity – Being new"
+
+    1. Why can it be harder to change an organisation you have just joined than one you have belonged to for a long time?
+    2. Why is it sometimes easier to change an organisation you are new to?
+
+<!-- end: type -->
+
 <!-- type: framework -->
 
 ## Who to Involve First
@@ -967,6 +1022,17 @@ What actually shifts people is different. Trusted relationships matter more than
 
 This is why building relationships — with allies, with neutrals, even with soft opponents — is not a distraction from the work. It is the work.
 
+<!-- type: exercise -->
+
+!!! question "Activity – Changing your mind"
+
+    Describe something important that you have changed your mind about in the last ten years.
+
+    - What shifted you? Was it evidence, a relationship, an experience, or something else?
+    - What does this tell you about how to approach people you are trying to persuade?
+
+<!-- end: type -->
+
 <!-- type: framework -->
 
 ## Dealing with Resistance
@@ -982,6 +1048,17 @@ Some resistance is productive. Inviting a thoughtful critic into the process —
 Some resistance will not shift, and spending disproportionate energy on committed opponents is rarely worth it. Know when to move forward without them.
 
 The hardest resistance to navigate is inertia — the tendency for people to keep doing things the old way long after the organisation has nominally moved on. Plan for it. Getting a change approved is the beginning, not the end. Maintenance requires more effort than launch.
+
+<!-- type: exercise -->
+
+!!! question "Activity – Inertia"
+
+    Describe a case where people continued doing things the old way after most of the organisation had moved to a new way of working.
+
+    1. Why was this permitted?
+    2. What were the benefits and drawbacks of allowing it?
+
+<!-- end: type -->
 
 <!-- type: reflection -->
 

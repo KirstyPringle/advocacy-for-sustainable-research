@@ -16,6 +16,8 @@ In 2009, a team of scientists led by Johan Rockström introduced the concept of 
 
 The framework identifies nine Earth system processes, each with a boundary that, if crossed, risks triggering irreversible and potentially catastrophic change. These include climate change, biodiversity loss, freshwater use, land-system change, and the introduction of novel chemicals and substances.
 
+![Planetary Boundaries](PB_2025.jpg)
+
 !!! quote
 
     "This update on planetary boundaries clearly depicts a patient that is unwell, as pressure on the planet increases and vital boundaries are being breached. We don't know how long we can keep transgressing these key boundaries before combined pressures lead to irreversible change and harm."
