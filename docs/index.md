@@ -10,11 +10,11 @@ Much of the material in this course material is based on [Greg Wilsons course on
 
 The page and repo structure is based on that of [Teaching for Impact](https://talarifyza.github.io/teaching-for-impact/) developed by Anelda Van der Walt and Sheena O'Connell.  
 
-It was developed as part of the [NetDRIVE](eng.ox.ac.uk/netdrive/) project, which is working to build a more sustainable furture for digital research. 
+---
 
-The material is designed both as a **training manual** and a **practical working document** to support the design and improvement of training.
+## Funding
 
-
+The training and development of this workbook and associated resources were funded through the [NetDRIVE](eng.ox.ac.uk/netdrive/) project.
 
 ---
 
@@ -84,16 +84,13 @@ If you use or adapt this workbook, please cite it as:
 }
 ```
 
----
-
-## Funding
-
-The training and development of this workbook and associated resources were funded through the [NetDRIVE](eng.ox.ac.uk/netdrive/) project.
 
 ---
 
 ## Acknowledgements
 
-This workbook and training were inspired by the [Instructor Training material](https://carpentries.github.io/instructor-training/) developed by [The Carpentries](https://carpentries.org) and the [Creative Commons Certificate Course](https://creativecommons.org/about/cc-certificate-program/certificate-resources/).
+This course is adapted from [Greg Wilson's course on Organizational Change](https://gvwilson.github.io/change/), used with his permission. The page and repository structure is based on [Teaching for Impact](https://talarifyza.github.io/teaching-for-impact/) developed by Anelda van der Walt and Sheena O'Connell, used with permission.
+
+The Teaching for Impact workbook and training were inspired by the [Instructor Training material](https://carpentries.github.io/instructor-training/) developed by [The Carpentries](https://carpentries.org) and the [Creative Commons Certificate Course](https://creativecommons.org/about/cc-certificate-program/certificate-resources/).
 
 ---
