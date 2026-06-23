@@ -2,11 +2,13 @@
 
 ## Project team
 
-**Kirsty Pringle, Lorna Smith, Ernima, Greg**
+**Kirsty Pringle, Lorna Smith, Ernima, Greg Wilson**
 
 ## About this Workbook
 
 Much of the material in this course material is based on [Greg Wilsons course on Organizational Change](https://gvwilson.github.io/change/).  
+
+The page and repo structure is based on that of [Teaching for Impact](https://talarifyza.github.io/teaching-for-impact/) developed by Anelda Van der Walt and Sheena O'Connell.  
 
 It was developed as part of the [NetDRIVE](eng.ox.ac.uk/netdrive/) project, which is working to build a more sustainable furture for digital research. 
 
