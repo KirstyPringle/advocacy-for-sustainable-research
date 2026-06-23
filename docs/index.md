@@ -6,9 +6,13 @@
 
 ## About this Workbook
 
-This course was developed as part of the [NetDRIVE](eng.ox.ac.uk/netdrive/) project, which is working to build a more sustainable furture for digital research.  
+Much of the material in this course material is based on [Greg Wilsons course on Organizational Change](https://gvwilson.github.io/change/).  
 
-Is it designed both as a **training manual** and a **practical working document** to support the design and improvement of training.
+It was developed as part of the [NetDRIVE](eng.ox.ac.uk/netdrive/) project, which is working to build a more sustainable furture for digital research. 
+
+The material is designed both as a **training manual** and a **practical working document** to support the design and improvement of training.
+
+
 
 ---
 
