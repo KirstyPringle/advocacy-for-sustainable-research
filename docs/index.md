@@ -2,7 +2,8 @@
 
 ## Project team
 
-**Kirsty Pringle, Lorna Smith, Ernima, Greg Wilson**
+
+**Kirsty Pringle, Lorna Smith, Ernima Ochu, Greg Wilson**
 
 ## About this Workbook
 
