@@ -550,9 +550,9 @@ The goal of power mapping isn't to find the one person you need to convince. It'
 
 <!-- type: reflection -->
 
-## Important Note
+### A Note on Discomfort
 
-Many people find power mapping uncomfortable, particularly if their map includes people who are also in the room.
+In this course we use fictional examples for power mapping. Many people find power mapping uncomfortable, particularly if their map includes people who are also in the room.
 
 This discomfort is one of the reasons things don't get better: thinking consciously about how to change people's minds makes compassionate people squeamish.
 
