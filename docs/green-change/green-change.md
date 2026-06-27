@@ -550,9 +550,9 @@ The goal of power mapping isn't to find the one person you need to convince. It'
 
 <!-- type: reflection -->
 
-## Important Note
+### A Note on Discomfort
 
-Many people find power mapping uncomfortable, particularly if their map includes people who are also in the room.
+In this course we use fictional examples for power mapping. Many people find power mapping uncomfortable, particularly if their map includes people who are also in the room.
 
 This discomfort is one of the reasons things don't get better: thinking consciously about how to change people's minds makes compassionate people squeamish.
 
@@ -564,8 +564,7 @@ But if we don't do it, it will be done by people whom it *doesn't* make uncomfor
 
 ## Personas of Key Power Players
 
-A power map tells you who matters. 
-A persona helps you think about how to approach them.
+If a power map helps to tell you who matters, a persona helps you to think about how to approach them.
 
 <!-- slide break -->
 
@@ -590,6 +589,26 @@ A useful persona includes:
 	Consider: What would make them say yes? What would make them say no?
 
 
+<!-- type: concept -->
+
+## Stories and Personas
+
+A persona tells you who someone is. That tells you which story to use.
+
+- A **burning platform** story makes visible why the status quo is unsustainable — the risks and consequences of not acting. Creates urgency, but works best when paired with a vision of what change looks like.
+- A **vision** story offers a compelling picture of where things could be heading. Connects the change to values people already hold — good science, fairness, responsibility, reputation. Particularly useful with senior leaders.
+- A **springboard** story is a concrete example of successful change, close enough to your context that people can recognise themselves in it. Answers the unspoken question: *has anyone actually done this?*
+- A **champion** story frames change as a collective journey — people navigating real challenges, learning, and making progress. Builds shared identity and community.
+
+<!-- end: type -->
+
+Once you have a persona, you can ask: what kind of story would land with this person? A finance director who fears cost and risk needs a springboard story — a concrete example of another institution that made this change and saved money. A Dean who cares about reputation needs a vision of what sector leadership looks like. A cautious peer needs to hear that someone like them tried this and it worked.
+
+Stories also flow in both directions. Leadership narratives set direction and signal commitment. Bottom-up stories — your own direct experience of what is broken or what has worked — ground those priorities in lived reality. For advocates without formal authority, bottom-up stories are often the most accessible tool. The computing job that used more energy than you expected, the grant application that had nowhere to record sustainability commitments — framed well, these are evidence.
+
+See [Why Stories Matter](../why-stories-matter/) for more on each type.
+
+
 
 ## Using Your Analysis to Decide Who to Target
 
@@ -612,6 +631,8 @@ A useful persona includes:
 	2. What is your core message, and how will you adapt it for different people?
 	3. Who might resist, and how will you respond?
 	4. What does a realistic first step look like?
+
+
 
 
 # Section 3 - Develop a Plan
@@ -725,7 +746,9 @@ The three approaches work best in combination, and the right balance depends on 
 
 **Data-driven advocacy** makes the case with evidence — emissions figures, energy use data, funder requirements, policy benchmarks. It works well when decision-makers need to see that a problem is real and measurable, or when you are trying to shift something from "nice to have" into the category of "we have a documented gap to close." Numbers establish that the problem exists. They rarely, on their own, make anyone care enough to act.
 
-**Storytelling** connects the issue to lived experience. A researcher who changed how they run their computing jobs and cut their footprint substantially, a team that reduced travel emissions without losing international collaboration — these land differently than a graph. Use both: data establishes the problem, stories make people want to do something about it.
+**Storytelling** connects the issue to lived experience. People may ask for numbers, but they are moved by stories. The story types introduced in Section 2 each serve different moments in an advocacy campaign: burning platform stories create the case for urgency, vision stories inspire, springboard stories overcome scepticism, and champion stories build community. 
+
+Use the type that fits the moment and the person. Data establishes that the problem is real; stories make people want to do something about it.
 
 **Policy engagement** is often the most powerful lever inside institutions, and the most underused. It means taking the commitments your institution has already made publicly — through its own sustainability strategy, through the Concordat, through funder requirements — and using them to frame your ask. This reframes the conversation entirely. You are no longer asking decision-makers to do something new. You are asking them to follow through on something they already signed up to. That is a much easier conversation.
 
@@ -1036,7 +1059,13 @@ There is no single script for getting a change over the line, but a few approach
 
 **Connect your proposal to something larger.** If your change can be framed as part of a broader initiative that already has institutional momentum — an existing strategy, a funder requirement, a sector-wide commitment — it is much harder to set aside. Be careful not to create extra work for people at a difficult time, though. Timing matters.
 
-**Bring in credible external voices.** A respected outsider who supports your proposal changes the dynamic. Even better if sustainability is not the stated reason for their visit — endorsement that arrives incidentally often carries more weight than endorsement that looks arranged.
+**Bring in credible external voices.** A respected outsider who supports your proposal changes the dynamic. Even better if sustainability is not the stated reason for their visit — endorsement that arrives incidentally often carries more weight than endorsement that looks arranged. 
+
+When you bring in external voices, **one of the most persuasive thing they can offer is a story**. A colleague from another institution who shares how their team made a similar change (what they tried, what resistance they encountered, how they got it over the line) carries far more weight than a straightforward endorsement. 
+
+Collect these accounts deliberately and use them strategically. A well-chosen springboard story, told by the right person at the right moment, can shift a room.
+
+Stories also spread change beyond your immediate campaign. When people share what has worked they create the social proof that makes change feel possible elsewhere. Norms shift through accumulated stories of people doing things differently.
 
 **Accept half a victory and build on it.** Two steps forward and one step back is still progress. A pilot, a trial period, or partial agreement can become the foundation for the next ask. If someone will not commit fully, ask for a trial run — most people who are reluctant to commit permanently are willing to try.
 
@@ -1182,6 +1211,10 @@ Decision-makers are not always acting in bad faith when things slip. They are bu
 <!-- end: type -->
 
 Maintaining relationships with the people you engaged — allies, neutrals who came with you, decision-makers who said yes — is part of this too. The network you built during the campaign is worth tending even when there is nothing immediately to ask for. Future advocacy is significantly easier when it builds on existing trust rather than starting from scratch every time.
+
+!!! tip
+
+    As you follow up and maintain relationships, gather stories deliberately — accounts of what changed, how it happened, and what made the difference. These become the springboard stories for your next round of advocacy, and for others working on similar changes elsewhere. The most useful thing you can share with the wider community is not just *what* you achieved, but *how* — the specific people, the specific moments, the specific framing that moved things forward.
 
 <!-- type: exercise -->
 
