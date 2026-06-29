@@ -147,8 +147,7 @@ nav:
   - Download: resources/offline-access.md
   - Resources:
       - Glossary: resources/glossary.md
-#      - Bloom's Taxonomy Cheatsheet: resources/blooms-taxonomy.md
-#      - A Toolkit for Solving Common Training Challenges: resources/toolkit.md
       - Course Itinerary: resources/course-itinerary.md
       - Additional Topics: resources/additional-topics.md
+      - Evaluation and Feedback: resources/evaluation-feedback.md
 
