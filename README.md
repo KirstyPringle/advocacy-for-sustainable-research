@@ -17,7 +17,7 @@ This course was developed with support from the
 [NetDRIVE](https://uknetdrive.org) project. 
 
 It is developed from Greg Wilson's course on 
-[organisational change](https://gvwilson.github.io/change/), used with permission.
+[organisational change](https://third-bit.com/change/), used with permission.
 
 ## Development Setup
 

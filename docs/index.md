@@ -6,7 +6,7 @@ Kirsty Pringle, Lorna Smith, Erinma Ochu, Greg Wilson
 
 ## About this Workbook
 
-Much of the material in this course material is based on [Greg Wilsons course on Organizational Change](https://gvwilson.github.io/change/).  
+Much of the material in this course material is based on [Greg Wilsons course on Organizational Change](https://third-bit.com/change/).  
 
 The page and repo structure is based on that of [Teaching for Impact](https://talarifyza.github.io/teaching-for-impact/) developed by Anelda Van der Walt and Sheena O'Connell.  
 
@@ -88,6 +88,6 @@ If you use or adapt this workbook, please cite it as:
 
 ## Acknowledgements
 
-This course is adapted from [Greg Wilson's course on Organizational Change](https://gvwilson.github.io/change/), used with his permission. The page and repository structure is based on [Teaching for Impact](https://talarifyza.github.io/teaching-for-impact/) developed by Anelda van der Walt and Sheena O'Connell, used with permission.
+This course is adapted from [Greg Wilson's course on Organizational Change](https://third-bit.com/change/), used with his permission. The page and repository structure is based on [Teaching for Impact](https://talarifyza.github.io/teaching-for-impact/) developed by Anelda van der Walt and Sheena O'Connell, used with permission.
 
 The Teaching for Impact workbook and training were inspired by the [Instructor Training material](https://carpentries.github.io/instructor-training/) developed by [The Carpentries](https://carpentries.org) and the [Creative Commons Certificate Course](https://creativecommons.org/about/cc-certificate-program/certificate-resources/).
