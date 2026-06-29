@@ -5,7 +5,7 @@
 	- Improved awareness of the power of advocacy, including the notion that it can take many forms, and be effective on multiple scales (small and large).
 	- Understanding of the main steps in the process of advocacy
 	- Awareness and confidence to use key tools to help design and create change (e.g. theory of change, identifying goals, strategies and actions).
-	- Concrete steps to implement a plan. 
+	- Concrete steps to implement a plan.
 
 
 ## Introduction to Advocacy and Organisational Change
@@ -22,10 +22,10 @@
 
 There is no single definition of advocacy
 
-	"Advocacy: public support for an idea, plan, or way of doing something" 
+	"Advocacy: public support for an idea, plan, or way of doing something"
 	– Cambridge dictionary
 
-	"Advocacy is the set of activities by individuals or groups intended to influence decisions within political, economic, and social institutions." 
+	"Advocacy is the set of activities by individuals or groups intended to influence decisions within political, economic, and social institutions."
 	– Wikipedia
 
 <!-- end: type -->
@@ -41,19 +41,19 @@ There is no single definition of advocacy
 
 <!-- type: concept -->
 
-### Types of Advocacy 
+## Types of Advocacy
 
-There are many different types of advocacy; e.g. personal advocacy (which is essentially speaking up for needs and rights) or legal advocacy (which involves using formal legal processes and rights-based action to challenge unfair treatment or enforce compliance with the law). 
+There are many different types of advocacy; e.g. personal advocacy (which is essentially speaking up for needs and rights) or legal advocacy (which involves using formal legal processes and rights-based action to challenge unfair treatment or enforce compliance with the law).
 
-- **Systems advocacy** = broad change across society, laws, or multiple organisations 
+- **Systems advocacy** = broad change across society, laws, or multiple organisations
 
 - **Institutional advocacy** = subset of systems advocacy, targeted change within a specific organisation or institution
 
 <!-- slide break -->
 
-Systems advocacy can drive much deeper, more lasting change than individual actions alone
+Systems advocacy can drive much deeper, more lasting change than individual actions alone.
 
-Here we are focusing on institutional advocacy, which is where individuals or groups seek to influence organisations and systems so that policies, procedures, and practices are improved. 
+Here we are focusing on institutional advocacy, which is where individuals or groups seek to influence organisations and systems so that policies, procedures, and practices are improved.
 
 
 <!-- end: type -->
@@ -62,25 +62,25 @@ Here we are focusing on institutional advocacy, which is where individuals or gr
 
 ### What advocacy isn't
 
-- Advocacy is not just complaining or expressing frustration without a clear aim 
-- It is not a one-off opinion, but a purposeful attempt to influence change 
-- It is not simply giving information without trying to affect decisions or practice 
-- It is not always formal, and not always big. 
+- Advocacy is not just complaining or expressing frustration without a clear aim
+- It is not a one-off opinion, but a purposeful attempt to influence change
+- It is not simply giving information without trying to affect decisions or practice
+- It is not always formal, and not always big
 
 
 <!-- end: type -->
 
 ### Advocacy vs Activism
 
-- Advocacy focuses on influencing decisions, policies, or systems, often through dialogue and structured engagement 
+- Advocacy focuses on influencing decisions, policies, or systems, often through dialogue and structured engagement
 - Activism is usually more public-facing and protest-based, aiming to raise awareness and apply pressure for change (e.g. demonstrations, strikes, campaigns)
 
 <!-- type: exercise -->
 
-!!! question 
+!!! question
 
     Discussion: Can you think of any examples of external systems advocacy?
-    An example of where somone outside of the system has created change.  
+    An example of where somone outside of the system has created change. 
 
 <!-- end: type -->
 
@@ -95,18 +95,18 @@ Here we are focusing on institutional advocacy, which is where individuals or gr
 
 ### Introduction to organisational change 
 
-The process of organisations changing their policies, practices, culture, or systems 
+The process of organisations changing their policies, practices, culture, or systems
 
-In environmental sustainability, this often means reducing environmental impact and improving resource efficiency. 
+In environmental sustainability, this often means reducing environmental impact and improving resource efficiency.
 
 <!-- slide break -->
 
-It may involve changes to: 
+It may involve changes to:
 
-- Environmental policies (e.g. waste, energy, procurement) 
-- Operational practices (e.g. recycling, transport, resource use) 
-- Organisational culture (e.g. sustainability values, training and behaviours) 
-- Systems and infrastructure (e.g. energy systems, supply chains) 
+- Environmental policies (e.g. waste, energy, procurement)
+- Operational practices (e.g. recycling, transport, resource use)
+- Organisational culture (e.g. sustainability values, training and behaviours)
+- Systems and infrastructure (e.g. energy systems, supply chains)
 
 <!-- slide break -->
 
@@ -139,7 +139,7 @@ Advocacy and organisational change are closely connected. Advocacy is the proces
 
 !!! question "Reflection"
 
-	- Can you think of any examples of internal systems advocacy?   
+	- Can you think of any examples of internal systems advocacy?  
 	- What change resulted from it
 	- What are the characteristics of the change that made is successful
 
@@ -148,9 +148,9 @@ Advocacy and organisational change are closely connected. Advocacy is the proces
 
 <!-- type: framework-->
 
-We often see the result of the change, not the process behind it. 
+We often see the result of the change, not the process behind it.
 
-So we often don't have the chance to learn from the process. 
+So we often don't have the chance to learn from the process.
 
 <!-- end: type -->
 
@@ -169,23 +169,23 @@ There are a number of different ways of structuring advocacy, in this course we 
 
 ### The 5-Step Advocacy Cycle
 
-**STEP ONE: Problem Analysis / Understanding the Issue** 
+**STEP ONE: Problem Analysis / Understanding the Issue**
 Research and gather evidence to better understand the problem. The more you know, the better equipped you are to act.
 
-**STEP TWO: Stakeholder Analysis** 
-Identify who is affected, who has the power to create change, and what influences their decisions. 
+**STEP TWO: Stakeholder Analysis**
+Identify who is affected, who has the power to create change, and what influences their decisions.
 
-**STEP THREE: Develop a Plan** 
+**STEP THREE: Develop a Plan**
 Create an advocacy plan covering: a problem statement, stakeholder analysis, target audiences, key messages, strategies and tactics (optional: a monitoring and evaluation framework).
 
 
-**STEP FOUR: Implementation** 
+**STEP FOUR: Implementation**
 Put the plan into action. Start by raising awareness, then build coalitions of support. Engage decision-makers through a mix of approaches
 
-**STEP FIVE: Follow Up** 
+**STEP FIVE: Follow Up**
 Assess progress against objectives, hold decision-makers accountable to any commitments made, and maintain relationships with contacts built throughout the process for future collaboration.
 
-This is likely to be an iterative process! 
+This is likely to be an iterative process!
 
 
 
@@ -206,7 +206,7 @@ This is likely to be an iterative process!
 
 !!! quote
 
-	"Describe how you will undertake your proposed research in an environmentally sustainable way." 
+	"Describe how you will undertake your proposed research in an environmentally sustainable way."
 	– [Wellcome Funding Application Form](https://cms.wellcome.org/sites/default/files/2021-08/sample-full-app-form-wellcome-discovery-award.pdf)
 
 <!-- end: type -->
@@ -223,7 +223,7 @@ One big factor in environmental sustainability are high-level policies.
 
 ### Concordat for the Environmental Sustainability of Research and Innovation Practice
 
-The [Concordat for the Environmental Sustainability of Research and Innovation Practice](https://wellcome.org/about-us/positions-and-statements/environmental-sustainability-concordat) is a voluntary agreement, published in April 2024 and hosted by Wellcome, co-developed by over 25 organisations across the UK research and innovation sector. 
+The [Concordat for the Environmental Sustainability of Research and Innovation Practice](https://wellcome.org/about-us/positions-and-statements/environmental-sustainability-concordat) is a voluntary agreement, published in April 2024 and hosted by Wellcome, co-developed by over 25 organisations across the UK research and innovation sector.
 
 <!-- end: type -->
 
@@ -235,9 +235,9 @@ The [Concordat for the Environmental Sustainability of Research and Innovation P
 
 <!-- end: type -->
 
-It represents a shared ambition for the UK to continue delivering cutting-edge research, but in a more environmentally responsible and sustainable way. 
+It represents a shared ambition for the UK to continue delivering cutting-edge research, but in a more environmentally responsible and sustainable way.
 
-Signatories agree to work individually and collectively to ensure the future design and practice of UK research and innovation is environmentally sustainable. 
+Signatories agree to work individually and collectively to ensure the future design and practice of UK research and innovation is environmentally sustainable.
 
 Six priority areas
 
@@ -277,7 +277,7 @@ Reporting should be proportionate to the size and maturity of the organisation, 
 
 <!-- type: concept -->
 
-The concordat is voluntary, but Wellcome requires organisations it funds in the UK to be signatories by the end of 2024, and Cancer Research UK similarly requires funded institutions to become signatories. **So, for many institutions, signing is effectively a funding condition.** 
+The concordat is voluntary, but Wellcome requires organisations it funds in the UK to be signatories by the end of 2024, and Cancer Research UK similarly requires funded institutions to become signatories. **So, for many institutions, signing is effectively a funding condition.**
 
 <!-- end: type -->
 
@@ -286,7 +286,7 @@ The concordat is voluntary, but Wellcome requires organisations it funds in the 
 
 ### UKRI Environmental Sustainability Strategy 2025–2030
 
-UK Research and Innovation (UKRI) is the UK's main public funder of research and innovation.  
+UK Research and Innovation (UKRI) is the UK's main public funder of research and innovation. 
  and its environmental sustainability strategy sets expectations that ripple through to the institutions and researchers it funds.
 
 <!-- end: type -->
@@ -359,9 +359,9 @@ Most UK research institutions will have some form of environmental sustainabilit
 **What to look for in your institution's policy**
 
 - **Scope** — does it cover research practice or mainly buildings and operations?
-- **Specificity** — are commitments time-bound and measurable? Watch for language like *"aim to explore"*, *"consider opportunities to"*, or *"where possible"* 
+- **Specificity** — are commitments time-bound and measurable? Watch for language like *"aim to explore"*, *"consider opportunities to"*, or *"where possible"*
 - **Accountability** — who is named as responsible? Is there a governance structure? A named senior lead?
-- **Reporting** — is there publicly available data on progress? 
+- **Reporting** — is there publicly available data on progress?
 - **Gaps** — is there a mismatch between the policy and what you observe in practice?
 
 <!-- slide break -->
@@ -439,17 +439,17 @@ Selectorate theory helps explain how power actually works:
 
 <!-- end: type -->
 
-Take a university as an example. Staff, students, governors, funders, and 
-the wider public are all part of the nominal selectorate — they formally 
-have a say. But the real selectorate is smaller: the people whose views 
-the Vice-Chancellor actually needs to weigh. And the winning coalition 
-smaller still — perhaps the senior leadership team, key heads of 
-department, and major funders. A proposal that those people support will 
-move forward; one that threatens their interests will stall, regardless 
+Take a university as an example. Staff, students, governors, funders, and
+the wider public are all part of the nominal selectorate — they formally
+have a say. But the real selectorate is smaller: the people whose views
+the Vice-Chancellor actually needs to weigh. And the winning coalition
+smaller still — perhaps the senior leadership team, key heads of
+department, and major funders. A proposal that those people support will
+move forward; one that threatens their interests will stall, regardless
 of how well-evidenced it is or how many people want it.
 
-For advocates, this is clarifying. You do not need to convince everyone — 
-you need to understand who is actually in the winning coalition for the 
+For advocates, this is clarifying. You do not need to convince everyone —
+you need to understand who is actually in the winning coalition for the
 specific change you are seeking, and focus your energy there.
 
 <!-- type: concept -->
@@ -484,9 +484,9 @@ A practical tool for visualising where power sits in relation to your cause.
 <!-- end: type -->
 
 !!! tip
-    The Museum of Protest's guide on [Power Analysis and Stakeholder Mapping](https://museumofprotest.org/guides/guide-power-analysis-and-stakeholder-mapping/) 
-    goes deeper on these concepts, with practical methods and real-world examples 
-    drawn from campaigning and community organising. 
+    The Museum of Protest's guide on [Power Analysis and Stakeholder Mapping](https://museumofprotest.org/guides/guide-power-analysis-and-stakeholder-mapping/)
+    goes deeper on these concepts, with practical methods and real-world examples
+    drawn from campaigning and community organising.
 
 <!-- type: concept -->
 
@@ -732,7 +732,7 @@ The three approaches work best in combination, and the right balance depends on 
 
 **Data-driven advocacy** makes the case with evidence — emissions figures, energy use data, funder requirements, policy benchmarks. It works well when decision-makers need to see that a problem is real and measurable, or when you are trying to shift something from "nice to have" into the category of "we have a documented gap to close." Numbers establish that the problem exists. They rarely, on their own, make anyone care enough to act.
 
-**Storytelling** connects the issue to lived experience. People may ask for numbers, but they are moved by stories. The story types introduced in Section 2 each serve different moments in an advocacy campaign: burning platform stories create the case for urgency, vision stories inspire, springboard stories overcome scepticism, and champion stories build community. 
+**Storytelling** connects the issue to lived experience. People may ask for numbers, but they are moved by stories. The story types introduced in Section 2 each serve different moments in an advocacy campaign: burning platform stories create the case for urgency, vision stories inspire, springboard stories overcome scepticism, and champion stories build community.
 
 Use the type that fits the moment and the person. Data establishes that the problem is real; stories make people want to do something about it.
 
@@ -754,16 +754,16 @@ Lead with what that person cares about:
 
 <!-- end: type -->
 
-Framing is all about recognising that people have different priorities and responsibilities, and that the same change means different things to different people. 
+Framing is all about recognising that people have different priorities and responsibilities, and that the same change means different things to different people.
 
-A common mistake advocates make is leading with the argument that convinced them. If you care deeply about climate change, that is what you will want to talk about. 
+A common mistake advocates make is leading with the argument that convinced them. If you care deeply about climate change, that is what you will want to talk about.
 
 A useful test: before any significant conversation, ask yourself — *what problem does this solve for them?* Considering their role, with the pressures that they face. If you cannot answer that question, you are not ready for the conversation yet.
 
 !!! tip
 
-    People rarely oppose sustainability because they dislike sustainability. They resist because they fear workload, cost, risk, or compliance burden. 
-    
+    People rarely oppose sustainability because they dislike sustainability. They resist because they fear workload, cost, risk, or compliance burden.
+   
     Where possible, consider how to address that fear.
 
 <!-- type: exercise -->
@@ -1045,9 +1045,9 @@ There is no single script for getting a change over the line, but a few approach
 
 **Connect your proposal to something larger.** If your change can be framed as part of a broader initiative that already has institutional momentum — an existing strategy, a funder requirement, a sector-wide commitment — it is much harder to set aside. Be careful not to create extra work for people at a difficult time, though. Timing matters.
 
-**Bring in credible external voices.** A respected outsider who supports your proposal changes the dynamic. Even better if sustainability is not the stated reason for their visit — endorsement that arrives incidentally often carries more weight than endorsement that looks arranged. 
+**Bring in credible external voices.** A respected outsider who supports your proposal changes the dynamic. Even better if sustainability is not the stated reason for their visit — endorsement that arrives incidentally often carries more weight than endorsement that looks arranged.
 
-When you bring in external voices, **one of the most persuasive thing they can offer is a story**. A colleague from another institution who shares how their team made a similar change (what they tried, what resistance they encountered, how they got it over the line) carries far more weight than a straightforward endorsement. 
+When you bring in external voices, **one of the most persuasive thing they can offer is a story**. A colleague from another institution who shares how their team made a similar change (what they tried, what resistance they encountered, how they got it over the line) carries far more weight than a straightforward endorsement.
 
 Collect these accounts deliberately and use them strategically. A well-chosen springboard story, told by the right person at the right moment, can shift a room.
 
