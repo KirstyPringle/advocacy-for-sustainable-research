@@ -144,10 +144,10 @@ nav:
 #      - 12. Evaluation Plan: activities/activity_12_evaluation_plan.md
 ##      - 13. Training Design Snapshot: activities/activity_13_snapshot.md
  #     - 14. OER Workflow: activities/activity_14_oer.md
-  - Download: resources/offline-access.md
+##  - Download: resources/offline-access.md
   - Resources:
+      - Home: index.md
       - Glossary: resources/glossary.md
       - Course Itinerary: resources/course-itinerary.md
-      - Additional Topics: resources/additional-topics.md
       - Evaluation and Feedback: resources/evaluation-feedback.md
 
