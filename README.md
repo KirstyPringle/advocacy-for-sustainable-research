@@ -1,45 +1,33 @@
-# Teaching for Impact: Designing Effective & Open Training
+# Advocacy for Sustainable Research
 
-This workbook was developed as a reference for a course offered to grantees of the [Failure Modes of Engineering](https://feme.ac.uk/) (FeME) Seed Funding instrument: [Data for Change Training Fund](https://feme.ac.uk/wp-content/uploads/2026/01/Final-Data-for-Change-Training-Fund-Open-Call-Guidelines-1.pdf) in 2026.
+This workbook was developed as an open training resource for researchers, 
+research software engineers, and research technical professionals who want 
+to drive environmental sustainability change within their institutions.
 
-This workbook is both a **training manual** and a **practical working document** to support the design and improvement of training.
+It is both a **practical skills course** and a **reference resource**, 
+covering advocacy, organisational change, power mapping, stakeholder 
+analysis, and evaluation — structured around the UNICEF five-step advocacy 
+cycle.
 
-It is intended for practitioners designing and delivering training in complex, resource-constrained, and context-specific environments.
+The live site can be found [here](https://kirstypringle.github.io/advocacy-for-sustainable-research/)
 
-The live site can be found [here](https://talarifyza.github.io/teaching-for-impact/)
+## Funding and Acknowledgements
 
-## Project team
+This course was developed with support from the 
+[NetDRIVE](https://uknetdrive.org) project. 
 
-### Talarify
-Anelda van der Walt 
+It is developed from Greg Wilson's course on 
+[organisational change](https://third-bit.com/change/), used with permission.
 
-[Talarify](https://talarify.co.za) is a South African consulting and training organisation specialising in capacity and community development in Open Science and Digital and Computational Research.
+## Development Setup
 
-### Prelude
-Sheena O'Connell
-
-[Prelude](https://prelude.tech/) is a South African consulting and training organisation specialising in professional skills development in Python, Teamwork and Education. Prelude also builds edTech products.
-
-## Development setup
-
-This is an MkDocs site built with [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/).
-
-### Prerequisites
-
-- [uv](https://docs.astral.sh/uv/getting-started/installation/)
-
-### Run locally
-
-```bash
-uv run mkdocs serve
-```
-
-Then open http://127.0.0.1:8000 in your browser.
+This is an MkDocs site built with 
+[Material for MkDocs](https://squidfunk.github.io/mkdocs-material/).
 
 ### Build
 
 ```bash
-uv run mkdocs build
+mkdocs build
 ```
 
 The static site is generated in the `site/` directory.
