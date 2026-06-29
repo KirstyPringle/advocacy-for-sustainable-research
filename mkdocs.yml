@@ -16,7 +16,7 @@ theme:
 #    - navigation.indexes
     - navigation.footer
     - content.tabs.link
-###    - toc.integrate
+    - toc.integrate
     - navigation.path
     - search.suggest
     - search.highlight
