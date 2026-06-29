@@ -1,9 +1,8 @@
-# Greening Organisational Change
+# Advocacy for Sustainable Research
 
 ## Project team
 
-
-**Kirsty Pringle, Lorna Smith, Ernima Ochu, Greg Wilson**
+Kirsty Pringle, Lorna Smith, Ernima Ochu, Greg Wilson
 
 ## About this Workbook
 
@@ -21,7 +20,12 @@ The training and development of this workbook and associated resources were fund
 
 ## Course Structure
 
-** KIRSTY TO ADD COURSE STRUCTURE **
+- **Introduction** — What advocacy is, how it connects to organisational change, and the five-step framework that structures the course
+- **Section 1: Understand the Issue** — The policy landscape for environmental sustainability in research, including the Concordat and UKRI strategy, and how to use institutional commitments as advocacy leverage
+- **Section 2: People, Power and Stakeholders** — How power actually works in research institutions, and how to map stakeholders, build personas, and choose who to approach first
+- **Section 3: Develop a Plan** — How to set clear goals, frame your message for different audiences, and build a theory of change
+- **Section 4: Implement Your Plan** — How to build coalitions, navigate institutional politics, handle resistance, and close the deal
+- **Section 5: Follow Up and Evaluate** — How to hold decision-makers accountable, evaluate what worked, and sustain your advocacy over time
 
 ---
 
