@@ -1,4 +1,4 @@
-# Greening Organisational Change: Advocacy for Institutional Environmental Sustainability
+# Advocacy for Sustainable Research
 
 This workbook was developed as an open training resource for researchers, 
 research software engineers, and research technical professionals who want 
