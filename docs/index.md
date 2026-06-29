@@ -2,7 +2,7 @@
 
 ## Project team
 
-Kirsty Pringle, Lorna Smith, Ernima Ochu, Greg Wilson
+Kirsty Pringle, Lorna Smith, Erinma Ochu, Greg Wilson
 
 ## About this Workbook
 
@@ -14,7 +14,9 @@ The page and repo structure is based on that of [Teaching for Impact](https://ta
 
 ## Funding
 
-The training and development of this workbook and associated resources were funded through the [NetDRIVE](eng.ox.ac.uk/netdrive/) project.
+The training and development of this workbook and associated resources were funded through the [NetDRIVE](https://uknetdrive.org) project.
+
+![NetDRIVE logo](netdrive_logo.png)
 
 ---
 
@@ -29,15 +31,13 @@ The training and development of this workbook and associated resources were fund
 
 ---
 
-## How to Use the Workbook
+## The Course
 
-The contents of this workbook were designed to be used:
+This course is designed primarily as a facilitated one-day workshop, but all the material is also available for self-directed study.
 
-1. as self-study material (in this case, we strongly recommend further reading using the reference materials);
+The workshop uses slides to guide participants through each section, with activities and discussion built in throughout. The website contains the same content as the slides, plus extended background reading for those who want to go deeper. You do not need to have attended a workshop to use the site — everything you need is here.
 
-2. as a training manual and workbook complementing the interactive workshops run by facilitators with experience in evidence-based teaching and open science;
-
-3. as a **practical working document**, where you actively design, test, and refine your own training materials.
+If you are using this as self-directed study, we recommend working through the sections in order and completing the activities as you go. The background reading sections — [The Need for Change](green-change/the-need-for-change.md) and [The Power of Stories](green-change/the-power-of-stories.md) — provide additional context that goes beyond what is covered in the taught session.
 
 !!! tip
     Use the activities throughout the workbook to develop your own materials as you progress.
@@ -70,7 +70,7 @@ The licensor cannot revoke these freedoms as long as you follow the license term
 
 If you use or adapt this workbook, please cite it as:
 
-> Pringle, K., Smith, L., Ochu, E. & Wilson, G. (2026). *Advocacy for Sustainable Research*. University of Edinburgh. Available at [https://kirstypringle.github.io/teaching-for-impact/](https://kirstypringle.github.io/teaching-for-impact/). Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+> Pringle, K., Smith, L., Ochu, E. & Wilson, G. (2026). *Advocacy for Sustainable Research*. University of Edinburgh. Available at [https://kirstypringle.github.io/advocacy-for-sustainable-research/](https://kirstypringle.github.io/advocacy-for-sustainable-research/). Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 
 **BibTeX:**
 
@@ -79,7 +79,7 @@ If you use or adapt this workbook, please cite it as:
   title     = {Advocacy for Sustainable Research},
   author    = {Pringle, Kirsty and Smith, Lorna and Ochu, Erinma and Wilson, Greg},
   year      = {2026},
-  url       = {https://kirstypringle.github.io/teaching-for-impact/},
+  url       = {https://kirstypringle.github.io/advocacy-for-sustainable-research/},
   note      = {Licensed under CC BY 4.0}
 }
 ```
