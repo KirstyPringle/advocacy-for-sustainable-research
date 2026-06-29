@@ -24,17 +24,13 @@ theme:
     - content.code.copy
     - content.code.select
     - content.code.annotate
-    - toc.follow          # Highlight on scroll
+    - toc.follow
 
   palette:
     - scheme: default
 
-
 extra_css:
   - stylesheets/extra.css
-
-# extra_javascript:
-#   - javascripts/passwords.js
 
 markdown_extensions:
   - footnotes
@@ -68,11 +64,11 @@ markdown_extensions:
         kwds:
           case: lower
   - toc:
-      permalink: true      # Add anchor links
+      permalink: true
       slugify: !!python/object/apply:pymdownx.slugs.slugify
         kwds:
           case: lower
-      toc_depth: 2       # Maximum depth
+      toc_depth: 2
 
 hooks:
   - scripts/hooks.py
@@ -85,7 +81,6 @@ plugins:
   - search
   - macros:
       include_dir: includes
-
 
 extra:
   consent:
@@ -101,17 +96,18 @@ extra:
       - reject
 
 copyright: >
-  Copyright &copy; 2026 NetDRIVE - CC BY 4.0 · https://creativecommons.org/licenses/by/4.0/-  - <a href="#__consent">Change cookie settings</a>
+  Copyright &copy; 2026 NetDRIVE - CC BY 4.0 · https://creativecommons.org/licenses/by/4.0/ - <a href="#__consent">Change cookie settings</a>
+
 nav:
   - Home: index.md
   - Introduction: introduction.md
   - The Need for Change: green-change/the-need-for-change.md
   - Green Change: green-change/green-change.md
-  - The Power of Stories: green-change/the-power-of-stories.md 
+  - The Power of Stories: green-change/the-power-of-stories.md
   - Conclusion: conclusion.md
-  - Activities: activities/activities-all.md 
-
--Resources:
+  - Activities:
+      - Overview: activities/activities-all.md
+  - Resources:
       - Overview: resources/index.md
       - Glossary: resources/glossary.md
       - Course Itinerary: resources/course-itinerary.md

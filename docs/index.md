@@ -91,5 +91,3 @@ If you use or adapt this workbook, please cite it as:
 This course is adapted from [Greg Wilson's course on Organizational Change](https://gvwilson.github.io/change/), used with his permission. The page and repository structure is based on [Teaching for Impact](https://talarifyza.github.io/teaching-for-impact/) developed by Anelda van der Walt and Sheena O'Connell, used with permission.
 
 The Teaching for Impact workbook and training were inspired by the [Instructor Training material](https://carpentries.github.io/instructor-training/) developed by [The Carpentries](https://carpentries.org) and the [Creative Commons Certificate Course](https://creativecommons.org/about/cc-certificate-program/certificate-resources/).
-
----

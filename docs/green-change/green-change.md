@@ -606,8 +606,7 @@ Once you have a persona, you can ask: what kind of story would land with this pe
 
 Stories also flow in both directions. Leadership narratives set direction and signal commitment. Bottom-up stories — your own direct experience of what is broken or what has worked — ground those priorities in lived reality. For advocates without formal authority, bottom-up stories are often the most accessible tool. The computing job that used more energy than you expected, the grant application that had nowhere to record sustainability commitments — framed well, these are evidence.
 
-See [Why Stories Matter](../why-stories-matter/) for more on each type.
-
+See [The Power of Stories](the-power-of-stories.md) for more on each type.
 
 
 ## Using Your Analysis to Decide Who to Target

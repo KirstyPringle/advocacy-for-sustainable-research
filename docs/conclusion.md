@@ -72,5 +72,4 @@ None of these require permission. All of them move something forward.
 ---
 
 !!! note
-    Environmental sustainability in research is not a problem that gets solved once.
-    It is something you advocate for, learn from, and return to — over time, and with others.
+    Environmental sustainability in research is complex and there is no quick fix. Change is possible, but it requires sustained advocacy, learning, and returning to the cycle, over time and with others.
