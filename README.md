@@ -9,7 +9,7 @@ covering advocacy, organisational change, power mapping, stakeholder
 analysis, and evaluation — structured around the UNICEF five-step advocacy 
 cycle.
 
-The live site can be found [here](https://kirstypringle.github.io/teaching-for-impact/)
+The live site can be found [here](https://kirstypringle.github.io/advocacy-for-sustainable-research/)
 
 ## Funding and Acknowledgements
 
