@@ -44,11 +44,6 @@ The contents of this workbook were designed to be used:
 
 ---
 
-## Expected Learning Outcomes
-
-
----
-
 ## Re-using, Remixing, Reproducing
 
 This work is licensed under [Creative Commons Attribution 4.0 International ](https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1)
@@ -75,20 +70,19 @@ The licensor cannot revoke these freedoms as long as you follow the license term
 
 If you use or adapt this workbook, please cite it as:
 
-> KIRSTY TO UPDATE Van der Walt, A. & O'Connell, S. (2026). *Teaching for Impact: Designing Effective & Open Training*. Talarify & Prelude.tech Available at [https://talarifyza.github.io/teaching-for-impact/](https://talarifyza.github.io/teaching-for-impact/). Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+> Pringle, K., Smith, L., Ochu, E. & Wilson, G. (2026). *Advocacy for Sustainable Research*. University of Edinburgh. Available at [https://kirstypringle.github.io/teaching-for-impact/](https://kirstypringle.github.io/teaching-for-impact/). Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 
 **BibTeX:**
 
 ```bibtex
-@misc{vanderwaltoconnell2026teachingforimpact,
-  title     = {Teaching for Impact: Designing Effective & Open Training},
-  author    = {Van der Walt, Anelda and O'Connell, Sheena},
+@misc{pringle2026advocacy,
+  title     = {Advocacy for Sustainable Research},
+  author    = {Pringle, Kirsty and Smith, Lorna and Ochu, Erinma and Wilson, Greg},
   year      = {2026},
-  url       = {https://talarifyza.github.io/teaching-for-impact/},
+  url       = {https://kirstypringle.github.io/teaching-for-impact/},
   note      = {Licensed under CC BY 4.0}
 }
 ```
-
 
 ---
 
