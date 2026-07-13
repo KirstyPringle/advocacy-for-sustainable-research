@@ -6,7 +6,7 @@ Kirsty Pringle, Lorna Smith, Erinma Ochu, Greg Wilson
 
 ## About this Workbook
 
-Much of the material in this course material is based on [Greg Wilsons course on Organizational Change](https://third-bit.com/change/).  
+Much of the material in this course material is based on [Greg Wilson's course on "Organizational Change"](https://third-bit.com/change/).  
 
 The page and repo structure is based on that of [Teaching for Impact](https://talarifyza.github.io/teaching-for-impact/) developed by Anelda Van der Walt and Sheena O'Connell.  
 
