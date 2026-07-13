@@ -13,16 +13,13 @@ The live site can be found [here](https://kirstypringle.github.io/advocacy-for-s
 
 ## Funding and Acknowledgements
 
-This course was developed with support from the 
-[NetDRIVE](https://uknetdrive.org) project. 
+This course was developed with support from the [NetDRIVE](https://uknetdrive.org) project. 
 
-It is developed from Greg Wilson's course on 
-[organisational change](https://third-bit.com/change/), used with permission.
+This course was developed from Greg Wilson's [course on organisational change](https://third-bit.com/change/), used with permission.
 
 ## Development Setup
 
-This is an MkDocs site built with 
-[Material for MkDocs](https://squidfunk.github.io/mkdocs-material/).
+This is an MkDocs site built with [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/).
 
 ### Build
 
