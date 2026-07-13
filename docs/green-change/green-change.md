@@ -506,7 +506,7 @@ The goal is not just to identify who is who, but to understand *why* — what ar
 
 ### Worked Example: Greendale University
 
-Greendale is a fictional mid-sized research-intensive UK university. A group of researchers and RSEs want to advocate for a policy requiring all research computing to be reported as part of the university’s carbon footprint.
+Greendale is a fictional mid-sized research-intensive UK university.
 
 A group of researchers and RSEs want to advocate for a policy requiring all research computing to be reported as part of the university's carbon footprint.
 
