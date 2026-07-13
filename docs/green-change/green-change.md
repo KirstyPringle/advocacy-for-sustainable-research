@@ -506,7 +506,7 @@ The goal is not just to identify who is who, but to understand *why* — what ar
 
 ### Worked Example: Greendale University
 
-Greendale is a fictional mid-sized research-intensive UK university. A group of researchers and RSEs want to advocate for a policy requiring all research computing to be reported as part of the university’s carbon footprint.
+Greendale is a fictional mid-sized research-intensive UK university.
 
 A group of researchers and RSEs want to advocate for a policy requiring all research computing to be reported as part of the university's carbon footprint.
 
@@ -1306,7 +1306,7 @@ Whatever you decide to advocate for, keep the third step in mind. The tactics in
 - Use what you have
 - Help who you can
 
-And come back to the cycle. The map looks different from the second time around.
+And come back to the cycle. The map looks different the second time around.
 
 <!-- end: type -->
 

@@ -9,8 +9,10 @@ Each activity includes an estimated time, the context it sits in, and what you w
 ## 1.1 – Find and Analyse Your Institution's Sustainability Policy
 
 **Section:** Section 1 – Understand the Issue
+
 **Time:** 15 minutes
-**Format:** Individual, then brief group discussion
+
+ **Format:** Individual, then brief group discussion
 
 ### Background
 
@@ -44,7 +46,9 @@ A short written summary (a few bullet points is enough) of your institution's po
 ## 2.1 – Who's in Charge?
 
 **Section:** Section 2 – People, Power and Stakeholders
+
 **Time:** 10 minutes
+
 **Format:** Individual, then group discussion
 
 ### Background
@@ -68,7 +72,9 @@ A short list of the key people in your institution's winning coalition, with a n
 ## 2.2 – Write a Persona
 
 **Section:** Section 2 – People, Power and Stakeholders
+
 **Time:** 10 minutes
+
 **Format:** Individual
 
 ### Background
@@ -125,7 +131,9 @@ A short targeting strategy: a sequence of three to five contacts, with a one-sen
 ## 3.1 – Identify Goals, Strategies and Tactics
 
 **Section:** Section 3 – Develop a Plan
+
 **Time:** 10 minutes
+
 **Format:** Individual, then group discussion
 
 ### Background
@@ -157,7 +165,9 @@ A completed chain (cause → goal → strategy → tactic) for the scenario, plu
 ## 3.2 – Reframe Your Proposal
 
 **Section:** Section 3 – Develop a Plan
+
 **Time:** 10 minutes
+
 **Format:** Individual, then group discussion
 
 ### Background
@@ -187,7 +197,9 @@ Three short pitches and a note on what changed between them — and what stayed 
 ## 3.3 – Draft Your Advocacy Plan
 
 **Section:** Section 3 – Develop a Plan
+
 **Time:** 15 minutes
+
 **Format:** Individual
 
 ### Background
@@ -241,7 +253,9 @@ A brief written analysis (a few sentences per stage is enough) of how the change
 ## 4.2 – Choosing a Starting Point
 
 **Section:** Section 4 – Implement Your Plan
+
 **Time:** 10 minutes
+
 **Format:** Individual, then group discussion
 
 ### Background
@@ -285,7 +299,9 @@ A short reflection on your own current position — insider or relative newcomer
 ## 4.4 – Who's Who in Your Institution?
 
 **Section:** Section 4 – Implement Your Plan
+
 **Time:** 10 minutes
+
 **Format:** Individual, then group discussion
 
 ### Background
@@ -311,7 +327,9 @@ A short list of key people by role, with a note on how you might approach each o
 ## 4.5 – Changing Your Mind
 
 **Section:** Section 4 – Implement Your Plan
+
 **Time:** 10 minutes
+
 **Format:** Individual, then group discussion
 
 ### Background
@@ -357,7 +375,9 @@ A short analysis of the case, and a note on what it means for how you will plan 
 ## 4.7 – Retrospective on Change
 
 **Section:** Section 4 – Implement Your Plan
+
 **Time:** 10 minutes
+
 **Format:** Small groups (3–4 people)
 
 ### Background
@@ -380,7 +400,9 @@ Two or three concrete tactics — things that actually worked in your experience
 ## 5.1 – Evaluating Your Advocacy
 
 **Section:** Section 5 – Follow Up and Evaluate
+
 **Time:** 15 minutes
+
 **Format:** Individual, then group discussion
 
 ### Background
@@ -407,7 +429,9 @@ A short evaluation plan — one or two sentences per question — that you could
 ## Conclusion – Final Reflection
 
 **Section:** Conclusion
+
 **Time:** 10 minutes
+
 **Format:** Individual
 
 ### What to do
