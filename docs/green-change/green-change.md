@@ -1306,7 +1306,7 @@ Whatever you decide to advocate for, keep the third step in mind. The tactics in
 - Use what you have
 - Help who you can
 
-And come back to the cycle. The map looks different from the second time around.
+And come back to the cycle. The map looks different the second time around.
 
 <!-- end: type -->
 
