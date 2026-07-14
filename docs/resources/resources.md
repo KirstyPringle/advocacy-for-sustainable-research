@@ -4,6 +4,12 @@ Supporting materials for the Advocacy for Sustainable Research course.
 
 ---
 
+## Slides 
+
+[View slides](../slides/green-change-workshop.html)
+
+(Slides are automatically generated using build_slides.py)
+
 ## Course Itinerary
 
 This course is designed to be delivered as a full-day facilitated workshop. Timings below assume a group of 15–30 participants.
