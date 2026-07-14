@@ -1,6 +1,6 @@
 # Advocacy for Sustainable Research
 
-This workbook was developed as an open training resource for researchers, 
+This course was developed as an open training resource for researchers, 
 research software engineers, and research technical professionals who want 
 to drive environmental sustainability change within their institutions.
 
