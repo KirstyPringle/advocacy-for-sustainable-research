@@ -12,7 +12,7 @@ Each activity includes an estimated time, the context it sits in, and what you w
 
 **Time:** 15 minutes
 
- **Format:** Individual, then brief group discussion
+**Format:** Individual, then brief group discussion
 
 ### Background
 
@@ -227,7 +227,9 @@ A one-page advocacy plan covering all five elements above.
 ## 4.1 – Mapping a Past Change
 
 **Section:** Section 4 – Implement Your Plan
+
 **Time:** 10 minutes
+
 **Format:** Individual, then group discussion
 
 ### Background
@@ -278,7 +280,9 @@ A shortlist of realistic starting points, with a note on which one you would pri
 ## 4.3 – Being New
 
 **Section:** Section 4 – Implement Your Plan
+
 **Time:** 10 minutes
+
 **Format:** Individual, then group discussion
 
 ### Background
@@ -352,7 +356,9 @@ A short personal reflection and one concrete implication for your advocacy appro
 ## 4.6 – Inertia
 
 **Section:** Section 4 – Implement Your Plan
+
 **Time:** 10 minutes
+
 **Format:** Individual, then group discussion
 
 ### Background
