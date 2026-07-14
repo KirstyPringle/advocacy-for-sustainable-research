@@ -104,7 +104,9 @@ A one-page persona for one key decision-maker, written in plain language.
 ## 2.3 – Draft a Targeting Strategy
 
 **Section:** Section 2 – People, Power and Stakeholders
+
 **Time:** 10 minutes
+
 **Format:** Small groups (3–4 people)
 
 ### Background
