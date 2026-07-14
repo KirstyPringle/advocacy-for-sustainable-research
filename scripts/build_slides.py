@@ -6,7 +6,8 @@ import markdown
 # CONFIG
 # =========================
 
-OUTPUT_DIR = Path("slides")
+##OUTPUT_DIR = Path("slides")
+OUTPUT_DIR = Path("docs/slides")
 OUTPUT_FILE = OUTPUT_DIR / "green-change-workshop.html"
 
 MANIFEST_FILE = Path("scripts/slides_sources.txt")
