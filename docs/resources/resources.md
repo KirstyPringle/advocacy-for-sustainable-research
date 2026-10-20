@@ -51,11 +51,11 @@ This course is designed to be delivered as a full-day facilitated workshop. Timi
 | | *Final reflection* | Activity | 15 min |
 | **17:15** | **Close** | | |
 
-### Notes for facilitators
+## Notes for facilitators
 
 The activities most worth protecting are the persona writing (Section 2) and the advocacy plan draft (Section 3). The discussion and reflection activities are the easiest to trim if time is short.
 
-Section 5 and the Conclusion are combined at the end of the day. If the day is running ahead of schedule, restore the full Section 5 evaluation activity (allow an additional 15 minutes from 16:50).
+Section 5 and the Conclusion are combined at the end of the day. If the day is running ahead of schedule, restore the full [Section 5 evaluation activity](./activities-all/#51--evaluating-your-advocacy) (allow an additional 15 minutes from 16:55).
 
 ---
 
