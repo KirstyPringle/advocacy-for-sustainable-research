@@ -109,3 +109,4 @@ The evidence is clear: human activity is pushing Earth's systems beyond safe lim
 - [Climate Stripes](https://showyourstripes.info/) — a striking visualisation of warming trends by country and region, by Professor Ed Hawkins
 - [IPCC Sixth Assessment Report – Summary for Policymakers](https://www.ipcc.ch/report/ar6/syr/) — the authoritative overview of the current state of climate science
 - [Green Algorithms – Community of Practice for Environmentally Sustainable Computational Science](https://forum.escs-community.org/) — an online forum for researchers working on sustainable computing
+- [People's Emergency Briefing](https://www.nebriefing.org/peb) Very accessible film, curated by Chris Packham, with short presentations from experts designed to promote action on climate change.   
