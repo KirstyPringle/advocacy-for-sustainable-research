@@ -4,7 +4,7 @@
 
 Kirsty Pringle, Lorna Smith, Erinma Ochu, Greg Wilson
 
-## About this Workbook
+## About this Course
 
 Much of the material in this course material is based on [Greg Wilson's course on organisational change](https://third-bit.com/change/).  
 
@@ -14,7 +14,7 @@ The page and repo structure is based on that of [Teaching for Impact](https://ta
 
 ## Funding
 
-The training and development of this workbook and associated resources were funded through the [NetDRIVE](https://uknetdrive.org) project.
+The training and development of this course and associated resources were funded through the [NetDRIVE](https://uknetdrive.org) project.
 
 ![NetDRIVE logo](netdrive_logo.png)
 
@@ -40,7 +40,7 @@ The workshop uses slides to guide participants through each section, with activi
 If you are using this as self-directed study, we recommend working through the sections in order and completing the activities as you go. The background reading sections — [The Need for Change](green-change/the-need-for-change.md) and [The Power of Stories](green-change/the-power-of-stories.md) — provide additional context that goes beyond what is covered in the taught session.
 
 !!! tip
-    Use the activities throughout the workbook to develop your own materials as you progress.
+    Use the activities throughout the course to develop your own materials as you progress.
 
 ---
 
@@ -68,7 +68,7 @@ The licensor cannot revoke these freedoms as long as you follow the license term
 
 ## Citation
 
-If you use or adapt this workbook, please cite it as:
+If you use or adapt this course, please cite it as:
 
 > Pringle, K., Smith, L., Ochu, E. & Wilson, G. (2026). *Advocacy for Sustainable Research*. University of Edinburgh. Available at [https://kirstypringle.github.io/advocacy-for-sustainable-research/](https://kirstypringle.github.io/advocacy-for-sustainable-research/). Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 
