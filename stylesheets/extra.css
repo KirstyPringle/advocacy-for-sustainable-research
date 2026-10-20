@@ -1,0 +1,204 @@
+:root > * {
+
+html, body {
+  min-height: 100%;
+}
+
+  /* =========================
+     PRIMARY BRAND COLOURS
+     ========================= */
+
+  --md-primary-fg-color:        #004b6c;  /* dark teal */
+  --md-primary-fg-color--light: #1d647d;  /* primary teal */
+  --md-primary-fg-color--dark:  #00354d;
+
+  /* =========================
+     ACCENT COLOUR (interactive elements)
+     ========================= */
+
+  --md-accent-fg-color:         #d46852;  /* coral */
+  --md-accent-fg-color--transparent: rgba(212, 104, 82, 0.1);
+
+  /* =========================
+     BACKGROUND & SURFACE
+     ========================= */
+
+  --md-default-bg-color:        #ffffff;
+  --md-default-fg-color:        #000000;
+
+  --md-default-fg-color--light: #507d8e;  /* teal-grey for secondary text */
+  --md-default-fg-color--lighter: #9cb5cb;
+
+  /* =========================
+     LINKS
+     ========================= */
+
+  --md-typeset-a-color:         #1d647d;  /* primary teal */
+}
+
+/* =========================
+   LINK STATES
+   ========================= */
+
+.md-typeset a {
+  color: #1d647d;
+  text-decoration: none;
+  border-bottom: 1px solid rgba(29, 100, 125, 0.3);
+}
+
+.md-typeset a:hover {
+  color: #d46852;
+  border-bottom: 1px solid #d46852;
+}
+
+/* =========================
+   NAVIGATION
+   ========================= */
+
+.md-nav__link--active {
+  color: #d46852;
+  font-weight: 600;
+}
+
+.md-nav__link:hover {
+  color: #1d647d;
+}
+
+/* =========================
+   HEADER / TABS
+   ========================= */
+
+.md-header {
+  background-color: #004b6c;
+}
+
+.md-tabs {
+  background-color: #1d647d;
+}
+
+/* =========================
+   BUTTONS
+   ========================= */
+
+.md-button {
+  background-color: #1d647d;
+  color: #ffffff;
+  border-radius: 4px;
+}
+
+.md-button:hover {
+  background-color: #d46852;
+  color: #ffffff;
+}
+
+/* =========================
+   CODE BLOCKS
+   ========================= */
+
+.md-typeset code {
+  background-color: #f4f8fb;
+  color: #004b6c;
+}
+
+.md-typeset pre {
+  background-color: #f4f8fb;
+  border-left: 4px solid #1d647d;
+}
+
+/* =========================
+   CALLOUTS / ADMONITIONS
+   ========================= */
+
+.md-typeset .admonition,
+.md-typeset details {
+  border-left: 4px solid #1d647d;
+}
+
+.md-typeset .admonition-title {
+  background-color: rgba(29, 100, 125, 0.1);
+  color: #004b6c;
+}
+
+/* =========================
+   TABLES
+   ========================= */
+
+.md-typeset table th {
+  background-color: #1d647d;
+  color: #ffffff;
+}
+
+.md-typeset table tr:nth-child(even) {
+  background-color: #f4f8fb;
+}
+
+/* =========================
+   FOOTER
+   ========================= */
+
+.md-footer {
+  background-color: #004b6c;
+}
+
+.md-footer-meta {
+  background-color: #00354d;
+}
+
+/* =========================
+   SELECTION
+   ========================= */
+
+::selection {
+  background: #d46852;
+  color: #ffffff;
+}
+
+/* Navigation links */
+
+.nav-previous {
+  margin-bottom: 1rem;
+  font-size: 0.9rem;
+  color: var(--md-default-fg-color--light);
+}
+
+.nav-next {
+  margin-top: 2rem;
+  font-size: 0.95rem;
+  font-weight: 500;
+  text-align: right;
+}
+
+/* Link styling */
+.nav-previous a,
+.nav-next a {
+  text-decoration: none;
+}
+
+.nav-previous a:hover,
+.nav-next a:hover {
+  color: var(--md-accent-fg-color);
+}
+
+/* =========================
+   DOWNLOAD BUTTON
+   ========================= */
+
+.download-btn-wrapper {
+  margin: 1rem 0 1.5rem;
+}
+
+.download-doc-btn {
+  background-color: #d46852;
+  color: #ffffff !important;
+  border: none;
+  padding: 0.5rem 1.2rem;
+  font-size: 0.85rem;
+  cursor: pointer;
+  border-radius: 4px;
+  font-weight: 500;
+}
+
+.download-doc-btn:hover {
+  background-color: #004b6c;
+  color: #ffffff !important;
+}
