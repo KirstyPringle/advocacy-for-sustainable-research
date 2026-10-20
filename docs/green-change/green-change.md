@@ -75,20 +75,13 @@ Here we are focusing on institutional advocacy, which is where individuals or gr
 - Advocacy focuses on influencing decisions, policies, or systems, often through dialogue and structured engagement
 - Activism is usually more public-facing and protest-based, aiming to raise awareness and apply pressure for change (e.g. demonstrations, strikes, campaigns)
 
+
 <!-- type: exercise -->
-
-!!! question
-
-    Discussion: Can you think of any examples of external systems advocacy?
-    An example of where somone outside of the system has created change. 
-
+1.1 – People's Emergency Briefing - Information, Advocacy or Activism?
 <!-- end: type -->
 
-!!! Example "Systemic Advocacy driven from someone external to the organisation."
 
-	In parts of Scotland, younger children who have Friday afternoons off school are given a packed lunch by the council — including a plastic bottle of water — even if they don't need one. Most bottles went home unopened, creating unnecessary plastic waste.
 
-	A local mum petitioned to make the water bottle opt-in rather than automatic. A small change, but it saved money and cut waste. ([See article](https://www.edinburghlive.co.uk/news/edinburgh-news/east-lothian-mum-says-trip-22180718))
 
 
 <!-- type: concept -->
