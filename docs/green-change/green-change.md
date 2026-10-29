@@ -106,7 +106,7 @@ Organisational change is often driven by external pressures such as regulation, 
 
 Advocacy and organisational change are closely connected. Advocacy is the process — the deliberate effort to influence decisions. Organisational change is the outcome — the shift in policy, practice, or culture that results. One without the other is incomplete: advocacy that never lands produces no change, and change without advocates to sustain it often fades.
 
-!!! tip
+!!! reflection
 
     One important thing to bear in mind: we usually see the result of change, not the process behind it. A new policy appears, a practice shifts — but the months of relationship-building, failed attempts, and strategic manoeuvring that made it happen are invisible. This means we often underestimate how much effort change actually requires, and we miss the chance to learn from the process. This course tries to make that process visible.
 
@@ -122,15 +122,6 @@ Advocacy and organisational change are closely connected. Advocacy is the proces
 
 <!-- end: type -->
 
-<!-- type: exercise -->
-
-!!! question "Reflection"
-
-	- Can you think of any examples of internal systems advocacy?  
-	- What change resulted from it
-	- What are the characteristics of the change that made is successful
-
-<!-- end: type -->
 
 
 <!-- type: framework-->
