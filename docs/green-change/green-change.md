@@ -80,7 +80,7 @@ Here we are focusing on institutional advocacy, which is where individuals or gr
 
 <!-- type: concept -->
 
-## Introduction to organisational change 
+### Introduction to organisational change 
 
 The process of organisations changing their policies, practices, culture, or systems
 
@@ -108,8 +108,10 @@ Advocacy and organisational change are closely connected. Advocacy is the proces
     One important thing to bear in mind: we usually see the result of change, not the process behind it. 
     
     Sometimes a new policy appears, or a practice shifts - but we don't see the the months of relationship-building, failed attempts, and strategic manoeuvring that resulted in this change. 
+
+    So the change is visible, but we don't see the process that created the change.
     
-    This means we often miss the chance to learn from the process. This course tries to make that process visible.
+    This means we often miss the chance to learn from the process. 
 
 ### Scale — Big and Small Are Both Valid
 
@@ -118,16 +120,11 @@ Advocacy and organisational change are closely connected. Advocacy is the proces
 
 Both scales matter, and they are connected: small institutional wins build momentum for wider systems change
 
-
-We often see the result of the change, not the process behind it.
-
-So we often don't have the chance to learn from the process.
-
 <!-- end: type -->
 
 <!-- type: concept-->
 
-### Advocacy cycle 
+## Advocacy cycle 
 There are a number of different ways of structuring advocacy, in this course we have adapted the Advocacy Cycle from [UNICEF](https://www.unicef.org/lesotho/media/1231/file/YPH-Module-4.pdf) this will also form the structure of the rest of the course
 
 <!-- end: type -->
