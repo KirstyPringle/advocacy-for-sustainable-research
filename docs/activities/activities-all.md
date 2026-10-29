@@ -6,40 +6,29 @@ Each activity includes an estimated time, the context it sits in, and what you w
 
 ---
 
-## 1.1 – Find and Analyse Your Institution's Sustainability Policy
+## 1.1 – Paired Discussion 
 
-**Section:** Section 1 – Understand the Issue
+**Section:** Discuss the provided examples of advocacy 
 
-**Time:** 15 minutes
+**Time:** 10 minutes
 
-**Format:** Individual, then brief group discussion
+**Format:** In groups of 2 or 3, look at the examples provided below and discuss what you like or dislike about each approach. Are there common characteristics across them?
 
-### Background
+---
 
-Your institution's own environmental sustainability policy is often the most powerful tool you have as an advocate — because it represents a public commitment your leadership has already made. When you can show that a proposed change is consistent with what the institution has already agreed to, you are not asking for something new. You are asking decision-makers to follow through.
+### Discussion Prompts & What to Look For
 
-But policies vary widely in quality and ambition. Before you can use yours as a lever, you need to read it carefully.
+As you review these examples in your group, consider:
 
-### What to do
+1. **Likes & Dislikes:**
+   * Which strategies feel most credible, persuasive, or feasible to you as researchers?
+   * Are any of these approaches uncomfortable or outside your standard professional identity? Why?
 
-Find your institution's environmental sustainability strategy or policy — it is usually published on the institution's website.
-
-Work through the following questions:
-
-1. Where did you find it — and how easy was it to locate? What does that tell you?
-2. Does the policy cover research practice, or mainly buildings and operations?
-3. Are the commitments time-bound and measurable? Look for vague language: *"aim to explore"*, *"consider opportunities to"*, *"where possible"*. Flag anything that avoids a concrete commitment.
-4. Who is named as responsible? Is there a governance structure or a named senior lead?
-5. Does your institution publish regular environmental performance data? Is it publicly available?
-6. Are there gaps between what the policy promises and what you observe in practice?
-
-### What you produce
-
-A short written summary (a few bullet points is enough) of your institution's policy — its strengths, its gaps, and at least one potential lever for advocacy.
-
-!!! tip
-
-    A gap is a lever. If your institution has committed to something publicly and is not yet delivering on it, that is a legitimate and constructive starting point for advocacy. You are not criticising the institution — you are helping it meet its own goals.
+2. **Common Characteristics of Effective Advocacy:**
+   * **Connecting Data to Action:** How do these examples bridge the gap between scientific facts and real-world decision-making?
+   * **Targeting Systemic Change:** Do the examples focus only on individual lifestyle/behavior choices, or do they aim to change policies, rules, and infrastructure?
+   * **Mobilization & Trust:** How do they use community participation, clear storytelling, or institutional credibility to build momentum?
+   * **Fairness & Accessibility:** Are the proposed solutions equitable, or do they benefit certain groups over others?
 
 ---
 
