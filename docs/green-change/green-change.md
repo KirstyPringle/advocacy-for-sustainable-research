@@ -8,8 +8,6 @@
 	- Concrete steps to implement a plan.
 
 
-## Introduction to Advocacy and Organisational Change
-
 !!! Learning Outcomes
 
 	- Understand what advocacy is and isn't
@@ -18,7 +16,7 @@
 
 <!-- type: concept -->
 
-### What is Advocacy?
+## What is Advocacy?
 
 There is no single definition of advocacy
 
@@ -41,7 +39,7 @@ There is no single definition of advocacy
 
 <!-- type: concept -->
 
-## Types of Advocacy
+### Types of Advocacy
 
 There are many different types of advocacy; e.g. personal advocacy (which is essentially speaking up for needs and rights) or legal advocacy (which involves using formal legal processes and rights-based action to challenge unfair treatment or enforce compliance with the law).
 
@@ -80,13 +78,9 @@ Here we are focusing on institutional advocacy, which is where individuals or gr
 
         Paired Discussion: People's Emergency Briefing - Information, Advocacy or Activism?
 
-
-
-
-
 <!-- type: concept -->
 
-### Introduction to organisational change 
+## Introduction to organisational change 
 
 The process of organisations changing their policies, practices, culture, or systems
 

@@ -21,14 +21,14 @@ Each activity includes an estimated time, the context it sits in, and what you w
 As you review these examples in your group, consider:
 
 1. **Likes & Dislikes:**
-   * Which strategies feel most credible, persuasive, or feasible to you as researchers?
-   * Are any of these approaches uncomfortable or outside your standard professional identity? Why?
+   - Which strategies feel most credible, persuasive, or feasible to you as researchers?
+   - Are any of these approaches uncomfortable or outside your standard professional identity? Why?
 
 2. **Common Characteristics of Effective Advocacy:**
-   * **Connecting Data to Action:** How do these examples bridge the gap between scientific facts and real-world decision-making?
-   * **Targeting Systemic Change:** Do the examples focus only on individual lifestyle/behavior choices, or do they aim to change policies, rules, and infrastructure?
-   * **Mobilization & Trust:** How do they use community participation, clear storytelling, or institutional credibility to build momentum?
-   * **Fairness & Accessibility:** Are the proposed solutions equitable, or do they benefit certain groups over others?
+   - **Connecting Data to Action:** How do these examples bridge the gap between scientific facts and real-world decision-making?
+   - **Targeting Systemic Change:** Do the examples focus only on individual lifestyle/behavior choices, or do they aim to change policies, rules, and infrastructure?
+   - **Mobilization & Trust:** How do they use community participation, clear storytelling, or institutional credibility to build momentum?
+   - **Fairness & Accessibility:** Are the proposed solutions equitable, or do they benefit certain groups over others?
 
 ---
 
