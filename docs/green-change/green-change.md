@@ -74,9 +74,9 @@ Here we are focusing on institutional advocacy, which is where individuals or gr
 - Activism is usually more public-facing and protest-based, aiming to raise awareness and apply pressure for change (e.g. demonstrations, strikes, campaigns)
 
 
-!!! question "Activity 1.1: People's Emergency Briefing"
+!!! question "Activity 1.1: Paired Discussion"
 
-        Paired Discussion: People's Emergency Briefing - Information, Advocacy or Activism?
+        Paired Discussion
 
 <!-- type: concept -->
 
@@ -118,7 +118,7 @@ Advocacy and organisational change are closely connected. Advocacy is the proces
 - **Small-scale advocacy** focuses on a specific issue within a single organisation e.g. one policy, one practice, one routine. Faster to implement, easier to measure, less risky
 - **Large-scale advocacy** aims to influence multiple organisations, sectors, or government policy. Deeper and can be more lasting, but slower and harder to initiate
 
-Both scales matter, and they are connected: small institutional wins build momentum for wider systems change
+Both scales are important. Small institutional wins build momentum for wider systems change.  
 
 <!-- end: type -->
 
@@ -164,7 +164,7 @@ This is likely to be an iterative process!
 !!! Learning Outcomes
 
 	- Improved awareness and understanding of relevant environmental sustainability policies.
-	- Familiarity with the concordat for environmentally sustainable research
+	- Familiarity with the Concordat for Environmentally Sustainable Research
 	- Familiarity with relevant funders policies
 	- Awareness of using policies to build an argument
 
