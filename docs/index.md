@@ -10,7 +10,7 @@ Much of the material in this course material is based on [Greg Wilson's course o
 
 The page and repo structure is based on that of [Teaching for Impact](https://talarifyza.github.io/teaching-for-impact/) developed by Anelda Van der Walt and Sheena O'Connell.  
 
-This course was presented at the 2nd International Conference on Low Carbon Computing [see paper here] (https://arxiv.org/pdf/2608.18601)
+This course was presented at the 2nd International Conference on Low Carbon Computing [see paper here](https://arxiv.org/pdf/2608.18601)
 
 ---
 
