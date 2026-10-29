@@ -101,30 +101,19 @@ Organisational change is often driven by external pressures such as regulation, 
 
 <!-- end: type -->
 
-
-### How advocacy and organisational change link together
-
 Advocacy and organisational change are closely connected. Advocacy is the process — the deliberate effort to influence decisions. Organisational change is the outcome — the shift in policy, practice, or culture that results. One without the other is incomplete: advocacy that never lands produces no change, and change without advocates to sustain it often fades.
 
 !!! reflection
 
     One important thing to bear in mind: we usually see the result of change, not the process behind it. A new policy appears, a practice shifts — but the months of relationship-building, failed attempts, and strategic manoeuvring that made it happen are invisible. This means we often underestimate how much effort change actually requires, and we miss the chance to learn from the process. This course tries to make that process visible.
 
-<!-- type: concept -->
-
 ### Scale — Big and Small Are Both Valid
 
-- **Small-scale advocacy** focuses on a specific issue within a single organisation e.g. one policy, one practice, one routine
-  - Faster to implement, easier to measure, less risky
-- **Large-scale advocacy** aims to influence multiple organisations, sectors, or government policy
-  - Deeper and can be more lasting, but slower and harder to initiate
+- **Small-scale advocacy** focuses on a specific issue within a single organisation e.g. one policy, one practice, one routine. Faster to implement, easier to measure, less risky
+- **Large-scale advocacy** aims to influence multiple organisations, sectors, or government policy. Deeper and can be more lasting, but slower and harder to initiate
+
 - Both scales matter, and they are connected: small institutional wins build momentum for wider systems change
 
-<!-- end: type -->
-
-
-
-<!-- type: framework-->
 
 We often see the result of the change, not the process behind it.
 
