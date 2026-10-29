@@ -76,10 +76,9 @@ Here we are focusing on institutional advocacy, which is where individuals or gr
 - Activism is usually more public-facing and protest-based, aiming to raise awareness and apply pressure for change (e.g. demonstrations, strikes, campaigns)
 
 
-<!-- type: activity -->
-1.1 – People's Emergency Briefing - Information, Advocacy or Activism?
-<!-- end: type -->
+!!! question "Activity 1.1: People's Emergency Briefing"
 
+People's Emergency Briefing - Information, Advocacy or Activism?
 
 
 
