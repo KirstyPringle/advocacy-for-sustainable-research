@@ -1,0 +1,107 @@
+html, body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+#presentation-content {
+  height: 100%;
+}
+:root {
+  --r-background-color: #ffffff;
+  --r-main-color: #1a1a1a;
+  --r-heading-color: #004b6c;
+  --r-link-color: #1d647d;
+  --r-link-color-hover: #d46852;
+  --r-selection-background-color: #d46852;
+  --r-selection-color: #ffffff;
+  --r-heading-font: inherit;
+  --r-main-font-size: 28px;
+}
+.reveal h1, .reveal h2, .reveal h3 { color: #004b6c; }
+.reveal h1 { font-size: 1.8em; }
+.reveal h2 { font-size: 1.4em; }
+.reveal h3 { font-size: 1.2em; }
+.reveal .accent { color: #d46852; }
+.reveal .slide-number { color: #507d8e; font-size: 0.6em; }
+.reveal .subtitle { color: #507d8e; font-size: 0.9em; margin-top: 0.5em; }
+.reveal ul { text-align: left; }
+.reveal li { margin-bottom: 0.4em; }
+.reveal blockquote {
+  border-left: 4px solid #d46852;
+  padding: 0.5em 1em;
+  font-style: italic;
+  background: #fdf5f3;
+}
+.reveal .highlight-box {
+  background: #e8f4f8;
+  border-left: 4px solid #004b6c;
+  padding: 0.8em 1.2em;
+  text-align: left;
+  border-radius: 4px;
+}
+.back-link {
+  position: fixed; top: 12px; left: 16px; z-index: 100;
+  font-size: 0.75rem; color: #507d8e;
+  text-decoration: none;
+}
+.back-link:hover { color: #d46852; }
+
+.reveal .title-slide__logos {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+  max-width: 1100px;
+  margin: 2rem auto 0 auto;
+  padding: 0 2rem;
+  gap: 2rem;   /* ensures spacing between all three */
+}
+
+.reveal .title-slide__logo {
+  height: 140px;
+  max-height: 18vh;
+  width: auto;
+  object-fit: contain;
+}
+
+/* CC-BY smaller but still visible */
+.reveal .title-slide__cc {
+  height: 40px;
+  width: auto;
+  object-fit: contain;
+  opacity: 0.85;
+}
+
+.reveal .small {
+  font-size: 0.8em;
+}
+
+.reveal .toc-chain-list {
+  font-size: 0.75em;
+  line-height: 1.2;
+  margin-top: 0.8rem;
+}
+
+.reveal .toc-chain-list li {
+  margin-bottom: 0.4em;
+}
+
+.reveal .toc-chain-list .example {
+  display: block;
+  font-size: 0.75em;
+  color: #507d8e;
+  margin-top: 0.1em;
+}
+
+.reveal table td {
+  vertical-align: top;
+}
+
+.topic {
+  color: #666;
+}
+
+.outcome {
+  font-weight: 500;
+}
+
