@@ -113,7 +113,7 @@ Advocacy and organisational change are closely connected. Advocacy is the proces
     
     This means we often miss the chance to learn from the process. 
 
-### Scale — Big and Small Are Both Valid
+#### Scale — Big and Small Are Both Valid
 
 - **Small-scale advocacy** focuses on a specific issue within a single organisation e.g. one policy, one practice, one routine. Faster to implement, easier to measure, less risky
 - **Large-scale advocacy** aims to influence multiple organisations, sectors, or government policy. Deeper and can be more lasting, but slower and harder to initiate

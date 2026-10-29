@@ -5,10 +5,3 @@ Reveal.initialize({
   plugins: [RevealNotes]
 });
 
-/* =========================
-   H2 HEADINGS (##)
-   ========================= */
-
-.md-typeset h2 {
-  color: #004b6c;
-}

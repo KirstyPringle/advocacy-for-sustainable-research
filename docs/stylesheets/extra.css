@@ -202,3 +202,8 @@ html, body {
   background-color: #004b6c;
   color: #ffffff !important;
 }
+
+/* Make ## headings blue */
+.md-typeset h2 {
+  color: #004b6c !important;
+}
