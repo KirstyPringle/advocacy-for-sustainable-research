@@ -78,7 +78,8 @@ Here we are focusing on institutional advocacy, which is where individuals or gr
 
 !!! question "Activity 1.1: People's Emergency Briefing"
 
-People's Emergency Briefing - Information, Advocacy or Activism?
+        Paired Discussion: People's Emergency Briefing - Information, Advocacy or Activism?
+
 
 
 
@@ -364,17 +365,6 @@ Most UK research institutions will have some form of environmental sustainabilit
 
 <!-- end: type -->
 
-<!-- type: exercise -->
-
-!!! question "Activity – Find your institution's sustainability policy"
-
-	- Find your institution's environmental sustainability strategy. Where did you find it — how easy was it to locate?
-
-	- Does your institution publish regular environmental performance data?
-
-	- Are there gaps between what the policy promises and what you observe in practice? How might you use a gap as a lever for advocacy?
-
-<!-- end: type -->
 
 
 <!-- type: concept -->
